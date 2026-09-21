@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Quantum and AI Briefing</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔭</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    box-sizing:border-box;
+    padding-top:env(safe-area-inset-top,0px);
+    padding-bottom:env(safe-area-inset-bottom,0px);
+    --paper:#E8EBF0; --card:#FFFFFF; --ink:#16203A; --soft:#5C6679; --rule:#D2D8E2; --field:#F3F5F9;
+    --signal:#2C4AD6; --signal-ink:#FFFFFF; --amber:#9A5C0E; --moss:#256149; --plum:#6B3FA0;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --paper:#0E1420; --card:#171F2E; --ink:#E3E8F2; --soft:#95A0B6; --rule:#28334A; --field:#111926;
+      --signal:#7E95FF; --signal-ink:#0E1420; --amber:#E3AA63; --moss:#71C39C; --plum:#B99AE8;
+    }
+  }
+  *,*::before,*::after{box-sizing:inherit}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:Archivo,"Helvetica Neue",Arial,sans-serif;font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
+  .shell{max-width:860px;margin:0 auto;padding:clamp(22px,4vw,48px) clamp(16px,4vw,32px) 72px}
+  h1{font-family:Newsreader,Georgia,serif;font-weight:500;font-size:clamp(34px,6.5vw,54px);line-height:1.02;letter-spacing:-.02em;margin:0}
+  .sub{margin:10px 0 0;color:var(--soft);font-size:14.5px}
+  .sub b{color:var(--ink);font-weight:500}
+  .bar{position:sticky;top:0;z-index:5;background:var(--paper);padding:14px 0 12px;border-bottom:1px solid var(--rule);margin:20px 0 8px}
+  .tabs{display:flex;gap:4px;background:var(--card);border:1px solid var(--rule);border-radius:9px;padding:4px;width:max-content;max-width:100%}
+  .tabs button{font:inherit;font-size:14.5px;font-weight:500;color:var(--soft);background:none;border:0;border-radius:6px;padding:7px 16px;cursor:pointer}
+  .tabs button[aria-selected="true"]{background:var(--signal);color:var(--signal-ink)}
+  .tabs .n{font-weight:400;opacity:.8}
+  .chips{display:flex;gap:6px;overflow-x:auto;margin-top:10px;scrollbar-width:none}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{font:inherit;font-size:12.5px;white-space:nowrap;color:var(--soft);background:transparent;border:1px solid var(--rule);border-radius:20px;padding:4px 11px;cursor:pointer}
+  .chip[aria-pressed="true"]{color:var(--ink);border-color:var(--ink)}
+  button:focus-visible,a:focus-visible{outline:2px solid var(--signal);outline-offset:2px}
+  .day{margin-top:26px}
+  .day h2{font-family:Newsreader,Georgia,serif;font-weight:500;font-size:15px;color:var(--soft);margin:0;padding-bottom:8px;border-bottom:1px solid var(--rule)}
+  article{padding:18px 0;border-bottom:1px solid var(--rule)}
+  article:last-child{border-bottom:none}
+  .tags{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:12.5px;color:var(--soft);margin-bottom:7px}
+  .st{font-weight:600}
+  .st.news{color:var(--signal)} .st.pr{color:var(--amber)} .st.pp{color:var(--plum)} .st.rev{color:var(--moss)}
+  .top{color:var(--signal);font-weight:600}
+  .fresh{color:var(--moss);font-weight:600}
+  article h3{font-family:Newsreader,Georgia,serif;font-weight:600;font-size:clamp(19px,2.6vw,22px);line-height:1.28;margin:0 0 8px;max-width:42ch}
+  article p{margin:0;font-family:Newsreader,Georgia,serif;font-size:17px;line-height:1.58;max-width:62ch}
+  .why{margin-top:10px;padding-left:12px;border-left:2px solid var(--rule)}
+  .why span{display:block;font-family:Archivo,sans-serif;font-size:12.5px;font-weight:600;color:var(--soft);margin-bottom:2px}
+  .src{margin-top:10px;font-size:13px;color:var(--soft)}
+  .src a{color:var(--ink);text-underline-offset:3px}
+  .note{margin-top:14px;background:var(--card);border:1px solid var(--rule);border-left:3px solid var(--signal);border-radius:9px;padding:14px 16px}
+  .note .lbl{font-size:12.5px;font-weight:600;color:var(--soft);margin-bottom:6px}
+  .note .txt{font-family:Newsreader,Georgia,serif;font-size:16.5px;line-height:1.56;white-space:pre-wrap;word-break:break-word;max-width:62ch}
+  .note button{margin-top:12px;font:inherit;font-size:13px;font-weight:600;color:var(--signal-ink);background:var(--signal);border:0;border-radius:7px;padding:7px 14px;cursor:pointer}
+  .key{font-size:12.5px;color:var(--soft);margin:18px 0 0;line-height:1.55}
+  .key b{font-weight:600}
+  .empty{color:var(--soft);font-size:14.5px;margin-top:20px}
+  .foot{margin-top:40px;padding-top:14px;border-top:1px solid var(--rule);font-size:12.5px;color:var(--soft)}
+</style>
+</head>
+<body>
+<div class="shell">
+  <header>
+    <h1>Quantum and AI Briefing</h1>
+    <p class="sub" id="sub">Future Intelligence.</p>
+  </header>
+  <div class="bar">
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <button role="tab" data-tab="news" aria-selected="true">News <span class="n" id="nn"></span></button>
+      <button role="tab" data-tab="research" aria-selected="false">Research <span class="n" id="rn"></span></button>
+    </nav>
+    <div class="chips" id="chips" role="group" aria-label="Filter"></div>
+  </div>
+  <main id="out"><p class="empty">Loading the briefing.</p></main>
+  <p class="key" id="key"></p>
+  <p class="foot">News is gathered every morning. Research is gathered every other Friday. Summaries are written fresh from each source; follow the link for the original.</p>
+</div>
+<script>
+(function(){
+  "use strict";
+  var NEWS = ["News", "Press release"], RES = ["Peer-reviewed", "Preprint"];
+  var data = { items: [] }, tab = "news", filter = "Top picks", shown = [], loadedAt = 0;
+  var $ = function(id){ return document.getElementById(id); };
+  var esc = function(s){ return String(s == null ? "" : s).replace(/[&<>"']/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]; }); };
+  function parse(s){ var p = String(s).split("-").map(Number); return new Date(p[0], p[1] - 1, p[2]); }
+  function longDate(s){ return parse(s).toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" }); }
+  function stClass(t){ return t === "News" ? "news" : t === "Press release" ? "pr" : t === "Preprint" ? "pp" : t === "Peer-reviewed" ? "rev" : ""; }
+  function inTab(x, t){ return (t === "news" ? NEWS : RES).indexOf(x.source_type) !== -1; }
+  var today = (function(){ var d = new Date(); return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); })();
+
+  document.querySelector(".tabs").addEventListener("click", function(e){
+    var b = e.target.closest("button[data-tab]"); if (!b) return;
+    tab = b.dataset.tab; filter = "Top picks"; render();
+  });
+  $("chips").addEventListener("click", function(e){
+    var b = e.target.closest("button[data-f]"); if (!b) return;
+    filter = b.dataset.f; render();
+  });
+  $("out").addEventListener("click", function(e){
+    var b = e.target.closest("button[data-copy]"); if (!b) return;
+    var x = shown[+b.dataset.copy]; if (!x) return;
+    var done = function(){ b.textContent = "Copied"; setTimeout(function(){ b.textContent = "Copy note"; }, 1500); };
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(x.note).then(done, function(){ fallback(x.note, done); });
+    else fallback(x.note, done);
+  });
+  function fallback(t, done){
+    var ta = document.createElement("textarea"); ta.value = t; ta.style.position = "fixed"; ta.style.opacity = "0";
+    document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} document.body.removeChild(ta);
+  }
+
+  function render(){
+    document.querySelectorAll(".tabs button").forEach(function(b){ b.setAttribute("aria-selected", String(b.dataset.tab === tab)); });
+    var items = data.items || [];
+    var news = items.filter(function(x){ return inTab(x, "news"); }), res = items.filter(function(x){ return inTab(x, "research"); });
+    $("nn").textContent = "(" + news.length + ")"; $("rn").textContent = "(" + res.length + ")";
+    var list = tab === "news" ? news : res;
+    var areas = []; list.forEach(function(x){ if (areas.indexOf(x.area) === -1) areas.push(x.area); });
+    var hasTop = list.some(function(x){ return x.top_pick; });
+    var opts = (hasTop ? ["Top picks"] : []).concat(["All"], areas.length > 1 ? areas.sort() : []);
+    if (opts.indexOf(filter) === -1) filter = hasTop ? "Top picks" : "All";
+    $("chips").innerHTML = opts.map(function(o){ return '<button class="chip" data-f="' + esc(o) + '" aria-pressed="' + (o === filter) + '">' + esc(o) + '</button>'; }).join("");
+    shown = filter === "All" ? list : filter === "Top picks" ? list.filter(function(x){ return x.top_pick; }) : list.filter(function(x){ return x.area === filter; });
+    $("key").innerHTML = tab === "news"
+      ? '<b style="color:var(--signal)">News</b> is independent reporting. <b style="color:var(--amber)">Press release</b> is a company describing its own work, so its claims are the company\'s.'
+      : '<b style="color:var(--moss)">Peer-reviewed</b> results have passed journal review. <b style="color:var(--plum)">Preprint</b> results are posted before review and may change.';
+    if (!shown.length) { $("out").innerHTML = '<p class="empty">Nothing here yet.' + (tab === "research" && data.next_roundup ? " The next research roundup is " + esc(longDate(data.next_roundup)) + "." : "") + '</p>'; return; }
+    var byDate = {};
+    shown.forEach(function(x){ (byDate[x.date] = byDate[x.date] || []).push(x); });
+    $("out").innerHTML = Object.keys(byDate).sort().reverse().map(function(d){
+      return '<section class="day"><h2>' + esc(longDate(d)) + '</h2>' + byDate[d].map(function(x){
+        var i = shown.indexOf(x);
+        return '<article><div class="tags">' + (x.found === today ? '<span class="fresh">New today</span>' : "") + (x.top_pick ? '<span class="top">Top pick</span>' : "") +
+          '<span class="st ' + stClass(x.source_type) + '">' + esc(x.source_type) + '</span><span>' + esc(x.area) + '</span></div>' +
+          '<h3>' + esc(x.headline) + '</h3><p>' + esc(x.summary) + '</p>' +
+          (x.why ? '<div class="why"><span>Why it matters</span><p>' + esc(x.why) + '</p></div>' : "") +
+          '<div class="src">' + (x.link ? '<a href="' + esc(x.link) + '" target="_blank" rel="noopener">' + esc(x.source || "Source") + '</a>' : esc(x.source)) + '</div>' +
+          (x.note ? '<div class="note"><div class="lbl">Note for Substack</div><div class="txt">' + esc(x.note) + '</div><button data-copy="' + i + '">Copy note</button></div>' : "") +
+          '</article>';
+      }).join("") + '</section>';
+    }).join("");
+  }
+
+  function load(){
+    fetch("data/findings.json?v=" + Date.now(), { cache: "no-store" }).then(function(r){ return r.json(); }).then(function(d){
+      data = d || { items: [] }; loadedAt = Date.now();
+      var upd = d.updated ? new Date(d.updated) : null;
+      $("sub").innerHTML = "Future Intelligence." + (upd ? " Updated <b>" + esc(upd.toLocaleString(undefined, { weekday: "long", month: "long", day: "numeric", hour: "numeric", minute: "2-digit" })) + "</b>." : "") +
+        (d.next_roundup ? " Next research roundup " + esc(longDate(d.next_roundup)) + "." : "");
+      render();
+    }).catch(function(){ $("out").innerHTML = '<p class="empty">The briefing could not load. Refresh the page in a moment.</p>'; });
+  }
+  document.addEventListener("visibilitychange", function(){ if (!document.hidden && Date.now() - loadedAt > 30 * 60000) load(); });
+  load();
+})();
+</script>
+</body>
+</html>
