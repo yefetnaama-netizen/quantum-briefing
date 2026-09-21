@@ -61,6 +61,13 @@
   .key{font-size:12.5px;color:var(--soft);margin:18px 0 0;line-height:1.55}
   .key b{font-weight:600}
   .empty{color:var(--soft);font-size:14.5px;margin-top:20px}
+  .item{padding:14px 0;border-bottom:1px solid var(--rule)}
+  .item:last-child{border-bottom:none}
+  .item a.t{font-family:Newsreader,Georgia,serif;font-weight:600;font-size:18.5px;line-height:1.32;color:var(--ink);text-decoration:none;display:block;max-width:60ch}
+  .item a.t:hover{text-decoration:underline;text-underline-offset:3px}
+  .item .m{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:12.5px;color:var(--soft);margin-top:5px}
+  .item .m .tp{color:var(--signal);font-weight:600}
+  .item .sn{font-family:Newsreader,Georgia,serif;font-size:15.5px;line-height:1.5;color:var(--soft);margin-top:6px;max-width:62ch}
   .foot{margin-top:40px;padding-top:14px;border-top:1px solid var(--rule);font-size:12.5px;color:var(--soft)}
 </style>
 </head>
@@ -74,29 +81,29 @@
     <nav class="tabs" role="tablist" aria-label="Sections">
       <button role="tab" data-tab="news" aria-selected="true">News <span class="n" id="nn"></span></button>
       <button role="tab" data-tab="research" aria-selected="false">Research <span class="n" id="rn"></span></button>
+      <button role="tab" data-tab="picks" aria-selected="false">Picks with Notes <span class="n" id="pn"></span></button>
     </nav>
     <div class="chips" id="chips" role="group" aria-label="Filter"></div>
   </div>
   <main id="out"><p class="empty">Loading the briefing.</p></main>
   <p class="key" id="key"></p>
-  <p class="foot">News is gathered every morning. Research is gathered every other Friday. Summaries are written fresh from each source; follow the link for the original.</p>
+  <p class="foot">Headlines are collected automatically twice a day from public news feeds and arXiv. Research papers from arXiv are preprints and have not yet been peer-reviewed. Picks with Notes are curated and written separately.</p>
 </div>
 <script>
 (function(){
   "use strict";
-  var NEWS = ["News", "Press release"], RES = ["Peer-reviewed", "Preprint"];
-  var data = { items: [] }, tab = "news", filter = "Top picks", shown = [], loadedAt = 0;
+  var feed = { news: [], research: [] }, picks = { items: [] }, tab = "news", filter = "All", shown = [], loadedAt = 0;
   var $ = function(id){ return document.getElementById(id); };
   var esc = function(s){ return String(s == null ? "" : s).replace(/[&<>"']/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]; }); };
+  function dayKey(iso){ var d = new Date(iso); return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); }
   function parse(s){ var p = String(s).split("-").map(Number); return new Date(p[0], p[1] - 1, p[2]); }
   function longDate(s){ return parse(s).toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" }); }
+  function ago(iso){ var m = Math.round((Date.now() - new Date(iso)) / 60000); if (m < 60) return m + " min ago"; var h = Math.round(m / 60); if (h < 24) return h + " h ago"; return new Date(iso).toLocaleDateString(undefined, { month: "short", day: "numeric" }); }
   function stClass(t){ return t === "News" ? "news" : t === "Press release" ? "pr" : t === "Preprint" ? "pp" : t === "Peer-reviewed" ? "rev" : ""; }
-  function inTab(x, t){ return (t === "news" ? NEWS : RES).indexOf(x.source_type) !== -1; }
-  var today = (function(){ var d = new Date(); return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); })();
 
   document.querySelector(".tabs").addEventListener("click", function(e){
     var b = e.target.closest("button[data-tab]"); if (!b) return;
-    tab = b.dataset.tab; filter = "Top picks"; render();
+    tab = b.dataset.tab; filter = "All"; render();
   });
   $("chips").addEventListener("click", function(e){
     var b = e.target.closest("button[data-f]"); if (!b) return;
@@ -114,46 +121,66 @@
     document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); done(); } catch (e) {} document.body.removeChild(ta);
   }
 
-  function render(){
-    document.querySelectorAll(".tabs button").forEach(function(b){ b.setAttribute("aria-selected", String(b.dataset.tab === tab)); });
-    var items = data.items || [];
-    var news = items.filter(function(x){ return inTab(x, "news"); }), res = items.filter(function(x){ return inTab(x, "research"); });
-    $("nn").textContent = "(" + news.length + ")"; $("rn").textContent = "(" + res.length + ")";
-    var list = tab === "news" ? news : res;
-    var areas = []; list.forEach(function(x){ if (areas.indexOf(x.area) === -1) areas.push(x.area); });
-    var hasTop = list.some(function(x){ return x.top_pick; });
-    var opts = (hasTop ? ["Top picks"] : []).concat(["All"], areas.length > 1 ? areas.sort() : []);
-    if (opts.indexOf(filter) === -1) filter = hasTop ? "Top picks" : "All";
-    $("chips").innerHTML = opts.map(function(o){ return '<button class="chip" data-f="' + esc(o) + '" aria-pressed="' + (o === filter) + '">' + esc(o) + '</button>'; }).join("");
-    shown = filter === "All" ? list : filter === "Top picks" ? list.filter(function(x){ return x.top_pick; }) : list.filter(function(x){ return x.area === filter; });
-    $("key").innerHTML = tab === "news"
-      ? '<b style="color:var(--signal)">News</b> is independent reporting. <b style="color:var(--amber)">Press release</b> is a company describing its own work, so its claims are the company\'s.'
-      : '<b style="color:var(--moss)">Peer-reviewed</b> results have passed journal review. <b style="color:var(--plum)">Preprint</b> results are posted before review and may change.';
-    if (!shown.length) { $("out").innerHTML = '<p class="empty">Nothing here yet.' + (tab === "research" && data.next_roundup ? " The next research roundup is " + esc(longDate(data.next_roundup)) + "." : "") + '</p>'; return; }
+  function chips(list, field){
+    var vals = []; list.forEach(function(x){ if (x[field] && vals.indexOf(x[field]) === -1) vals.push(x[field]); });
+    var opts = ["All"].concat(vals.sort());
+    if (opts.indexOf(filter) === -1) filter = "All";
+    $("chips").innerHTML = opts.length > 2 ? opts.map(function(o){ return '<button class="chip" data-f="' + esc(o) + '" aria-pressed="' + (o === filter) + '">' + esc(o) + '</button>'; }).join("") : "";
+    return filter === "All" ? list : list.filter(function(x){ return x[field] === filter; });
+  }
+
+  function renderFeed(list){
+    shown = chips(list, "topic");
+    if (!shown.length) { $("out").innerHTML = '<p class="empty">Nothing collected yet. The first run fills this in.</p>'; return; }
+    var byDay = {};
+    shown.forEach(function(x){ var k = dayKey(x.published); (byDay[k] = byDay[k] || []).push(x); });
+    $("out").innerHTML = Object.keys(byDay).sort().reverse().map(function(k){
+      return '<section class="day"><h2>' + esc(longDate(k)) + '</h2>' + byDay[k].map(function(x){
+        return '<div class="item"><a class="t" href="' + esc(x.link) + '" target="_blank" rel="noopener">' + esc(x.title) + '</a>' +
+          '<div class="m"><span class="tp">' + esc(x.topic) + '</span><span>' + esc(x.source) + '</span><span>' + esc(ago(x.published)) + '</span></div>' +
+          (x.snippet ? '<div class="sn">' + esc(x.snippet) + '</div>' : "") + '</div>';
+      }).join("") + '</section>';
+    }).join("");
+  }
+
+  function renderPicks(){
+    var list = (picks.items || []).filter(function(x){ return x.note; });
+    shown = chips(list, "area");
+    if (!shown.length) { $("out").innerHTML = '<p class="empty">No picks yet.</p>'; return; }
     var byDate = {};
     shown.forEach(function(x){ (byDate[x.date] = byDate[x.date] || []).push(x); });
     $("out").innerHTML = Object.keys(byDate).sort().reverse().map(function(d){
       return '<section class="day"><h2>' + esc(longDate(d)) + '</h2>' + byDate[d].map(function(x){
         var i = shown.indexOf(x);
-        return '<article><div class="tags">' + (x.found === today ? '<span class="fresh">New today</span>' : "") + (x.top_pick ? '<span class="top">Top pick</span>' : "") +
-          '<span class="st ' + stClass(x.source_type) + '">' + esc(x.source_type) + '</span><span>' + esc(x.area) + '</span></div>' +
+        return '<article><div class="tags"><span class="st ' + stClass(x.source_type) + '">' + esc(x.source_type) + '</span><span>' + esc(x.area) + '</span></div>' +
           '<h3>' + esc(x.headline) + '</h3><p>' + esc(x.summary) + '</p>' +
           (x.why ? '<div class="why"><span>Why it matters</span><p>' + esc(x.why) + '</p></div>' : "") +
           '<div class="src">' + (x.link ? '<a href="' + esc(x.link) + '" target="_blank" rel="noopener">' + esc(x.source || "Source") + '</a>' : esc(x.source)) + '</div>' +
-          (x.note ? '<div class="note"><div class="lbl">Note for Substack</div><div class="txt">' + esc(x.note) + '</div><button data-copy="' + i + '">Copy note</button></div>' : "") +
-          '</article>';
+          '<div class="note"><div class="lbl">Note for Substack</div><div class="txt">' + esc(x.note) + '</div><button data-copy="' + i + '">Copy note</button></div></article>';
       }).join("") + '</section>';
     }).join("");
   }
 
+  function render(){
+    document.querySelectorAll(".tabs button").forEach(function(b){ b.setAttribute("aria-selected", String(b.dataset.tab === tab)); });
+    $("nn").textContent = "(" + (feed.news || []).length + ")";
+    $("rn").textContent = "(" + (feed.research || []).length + ")";
+    $("pn").textContent = "(" + (picks.items || []).filter(function(x){ return x.note; }).length + ")";
+    $("key").innerHTML = tab === "research" ? "Research papers come from arXiv and are preprints: posted before peer review, so results may change." :
+      tab === "picks" ? '<b style="color:var(--signal)">News</b> is independent reporting. <b style="color:var(--amber)">Press release</b> is a company describing its own work. <b style="color:var(--moss)">Peer-reviewed</b> results passed journal review. <b style="color:var(--plum)">Preprints</b> have not yet.' :
+      "Headlines link to the original outlet. The same story from several outlets is shown once.";
+    if (tab === "picks") renderPicks(); else renderFeed(tab === "news" ? (feed.news || []) : (feed.research || []));
+  }
+
+  function getJSON(u){ return fetch(u + "?v=" + Date.now(), { cache: "no-store" }).then(function(r){ return r.ok ? r.json() : null; }).catch(function(){ return null; }); }
   function load(){
-    fetch("data/findings.json?v=" + Date.now(), { cache: "no-store" }).then(function(r){ return r.json(); }).then(function(d){
-      data = d || { items: [] }; loadedAt = Date.now();
-      var upd = d.updated ? new Date(d.updated) : null;
-      $("sub").innerHTML = "Future Intelligence." + (upd ? " Updated <b>" + esc(upd.toLocaleString(undefined, { weekday: "long", month: "long", day: "numeric", hour: "numeric", minute: "2-digit" })) + "</b>." : "") +
-        (d.next_roundup ? " Next research roundup " + esc(longDate(d.next_roundup)) + "." : "");
+    Promise.all([getJSON("data/feed.json"), getJSON("data/findings.json")]).then(function(r){
+      feed = r[0] || { news: [], research: [] }; picks = r[1] || { items: [] }; loadedAt = Date.now();
+      var upd = feed.updated ? new Date(feed.updated) : null;
+      $("sub").innerHTML = "Future Intelligence. AI, quantum computing, quantum AI, and machine learning." +
+        (upd ? " Updated <b>" + esc(upd.toLocaleString(undefined, { weekday: "long", month: "long", day: "numeric", hour: "numeric", minute: "2-digit" })) + "</b>." : "");
       render();
-    }).catch(function(){ $("out").innerHTML = '<p class="empty">The briefing could not load. Refresh the page in a moment.</p>'; });
+    });
   }
   document.addEventListener("visibilitychange", function(){ if (!document.hidden && Date.now() - loadedAt > 30 * 60000) load(); });
   load();
