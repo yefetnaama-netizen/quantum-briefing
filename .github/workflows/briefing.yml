@@ -1,0 +1,48 @@
+name: Daily briefing
+
+on:
+  schedule:
+    - cron: "0 10 * * *"   # 6:00 AM Eastern in summer, 5:00 AM in winter
+  workflow_dispatch:
+    inputs:
+      research:
+        description: "Also run the research roundup now"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: briefing
+  cancel-in-progress: false
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install "anthropic>=0.40" requests
+
+      - name: Gather news and research, write Notes
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          FORCE_RESEARCH: ${{ inputs.research }}
+        run: python scripts/run.py
+
+      - name: Publish
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          git diff --cached --quiet || git commit -m "Briefing $(date -u +%F)"
+          git push
