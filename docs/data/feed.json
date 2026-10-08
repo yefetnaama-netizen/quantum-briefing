@@ -1,12 +1,417 @@
 {
- "updated": "2026-10-07T20:02+00:00",
+ "updated": "2026-10-08T10:13+00:00",
  "news": [
+  {
+   "id": "cb1d99d2abbb",
+   "title": "Post-Quantum Security Gap Leaves Healthcare IoT Devices Behind",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQODhnVjgtb2NfNUc4ODZLN2tabjZTVmpvT24tbjdxSy1Xak5GWGUxQnM0WlU3a2JNeTlKb0FjRkFia01BcloyR3JBd2QzeHlpVVdOdEVHV2h2S2VxZ0ExeksxLXlQS1NYNW15U2xvTWNFWjVzN0pqMjdpakd5NVFpT0p5TXFhWXI4ZFU3dXN6b3hTenVpbjdkOWg2ZVdSZTlkbVJnag?oc=5",
+   "source": "IoT Business News",
+   "published": "2026-10-08T10:09+00:00",
+   "topic": "Quantum security",
+   "snippet": ""
+  },
+  {
+   "id": "e9eed8b512c4",
+   "title": "DARPA Adds 4 Companies to Quantum Benchmarking Initiative’s Final Stage",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUxMY19DMnEtN29Ua0hOZHNiYmxXRmRneWg3ZWpYMl8zdTFJRTFiay1JcjZ2MUlocDQxTHpFOXdWYS0waUNBU3dOOWNlWEhiN3ZMWTl4X1RLYnlCcHVlaG9LdkNLazJRaHEyc0FITnVuNDZEMlJTdnNUV3ZLUWZDcGFTanQxV1Zs?oc=5",
+   "source": "GovCon Wire",
+   "published": "2026-10-08T09:22+00:00",
+   "topic": "Quantum computing",
+   "snippet": ""
+  },
+  {
+   "id": "488361a6555f",
+   "title": "AI breakthroughs in robotics won’t change your life any time soon",
+   "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+   "source": "Artificial intelligence – MIT Technology Review",
+   "published": "2026-10-08T09:00+00:00",
+   "topic": "AI",
+   "snippet": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been..."
+  },
+  {
+   "id": "80156d1998d4",
+   "title": "Artificial Intelligence Office and Mawaheb Talent Hub launch Abu Dhabi Digital Talent initiative to develop next generation of technology leaders",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdWluOGw0VVBqWklqWmUwTUxqRlNBSHFkanFJajhRT2VlblBkbFBvX2tka0NEQU5FaDRWT1lsMk1VWk8waVpwcDc4U1VMdmxTVmVnV19VREFjRFNXSUpVUzBTd2xaUzlkR3I2RjFDMWk0YmdlSTAxRk1meHZUczdPNi1HdWhFeDBHSFQ5ZE9Pel9KTV9tcURjSnNOMmUyOGh5NFRQbXpwRnFtZnhtWHJPNDZjV2xHLXZwU1REMXA5WXFvZlFsbm1MSFppdEpBM253ck1XTzJhQ1l3Z0ZRTDhmMHhNRzJJRGNXVkxCSlNRLTEwTVJCRXpqQ3FCTk1zc1BaZEhLcXhnOEdFZ19qZEJUOHhjUWtxRWxvV0FUR2pB?oc=5",
+   "source": "مكتب أبوظبي الإعلامي",
+   "published": "2026-10-08T08:59+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
+   "id": "dab538e3c5be",
+   "title": "QAIX.org opens Global Membership, launching an executive alliance across Quantum, AI & finance",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR1FLOWh4bmh5OTNlODE0a3lOXzBQUnhMcjdYN2x1Y0xRd1JDU3JIeDBSNGMxWF9pdC12ZXpidEZoR0VJWXF3UElVVElPbHZWemRHVzRTNzVQWnZuc05CMmtVUDluY1lrQlFueDhOSjJFcWctMWtua3FaV2VvWk56SVlUblptbGU4T2oydHV3cXotWDFZUC1nTDF1eW1Ibl80eWRQajdVdkZWYUtuSW9NUUhyMjBlcDlFSktod0xhS1FDYnJENldkSWRQRVV6NmhTQ1hhbHFyQzFBclctV1A3X2lSaw?oc=5",
+   "source": "markets.businessinsider.com",
+   "published": "2026-10-08T08:40+00:00",
+   "topic": "Quantum AI",
+   "snippet": ""
+  },
+  {
+   "id": "a80a806ab603",
+   "title": "Building a safer path to autonomous industrial AI",
+   "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+   "source": "Artificial intelligence – MIT Technology Review",
+   "published": "2026-10-08T08:17+00:00",
+   "topic": "AI",
+   "snippet": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that..."
+  },
+  {
+   "id": "864ae58c4d98",
+   "title": "Post-Quantum Custody: Project Eleven Lines Up Quantus for Strongpoint",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRDRXMDJTSGVXQi02NEZsbG8xcmk0bEJxNHRKbGtVamZQUEplbDBGRVlFOXhTNWo0N0NsdW9tb3p3cUlFdjR5NUJSbTg3WDBuQktteDdJLTg5aVB4bl9zdERBdml2VGJrSUxrUXBmc0pxR1NWaWNqVWdFQnExcUZseTNlYV9Sa0Z6TnV4eVdZQXhVTXRnSnFQZWF1TlhTZ3JmLUxYY3ZET2tjZw?oc=5",
+   "source": "FinanceX Magazine",
+   "published": "2026-10-08T08:04+00:00",
+   "topic": "Quantum security",
+   "snippet": ""
+  },
+  {
+   "id": "69ed805ae7d3",
+   "title": "Infineon and ZuriQ expand collaboration on scalable quantum computing hardware",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQlJvOUVYVGMtXy1pcU85T3NGMFBma0VzbDd1R3NmZk1rbjM3TkVVT1cyN3M0Rjk1RU4tWWh0VE1MQldUZ3EydklublBaLUhQTC1MazJNZ293SmFzb19ZYnBIMWJmZTdQV09nX1JlZWN1cWZ5RHZDNkZYUElhRmR1eVNUZzRrNFVwNXVVNTJYV1J1Q2RtcVByNXhkMFRnNXR6dnNVOVFxOW9RczZTcktwdl9kY2ZFNjNIY1dFN2dvNkszdw?oc=5",
+   "source": "New Electronics",
+   "published": "2026-10-08T08:02+00:00",
+   "topic": "Quantum computing",
+   "snippet": ""
+  },
+  {
+   "id": "50954cda7194",
+   "title": "AI Model Predicts Which Breast Cancer Patients Can Skip Unnecessary Surgery",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObktsRGpNUjBFMldvUTExcVNPT3lzLTFNNDlacWo5YXlDNGllRmdyS1A0Vk9mdktFaUVZc0NXQm1PS3NBSTNpUHNTVUVDcVhDUzFieDVpNDAwUExWanMweWUxWHV5R1RRLUpwMVZhNF9yRUVrVGhtTmtmd2NZanBUMnZRbGUzeFdabUQyWGJJaHBFQ3ZScUZyTWE2eW82OHBMYkE?oc=5",
+   "source": "Bioengineer.org",
+   "published": "2026-10-08T07:52+00:00",
+   "topic": "Machine learning",
+   "snippet": ""
+  },
+  {
+   "id": "dcba502afc9a",
+   "title": "Crystal Material’s Spiral Structure Could Lead to New Electronics And Computer Memory",
+   "link": "https://thequantuminsider.com/2026/10/08/crystal-materials-spiral-structure-could-lead-to-new-electronics-and-computer-memory/",
+   "source": "The Quantum Insider",
+   "published": "2026-10-08T07:52+00:00",
+   "topic": "Quantum computing",
+   "snippet": "Insider Brief PRESS RELEASE — A University of Texas at Dallas scientist and her colleagues have discovered an unusual atomic pattern in a uranium-based material that gives it a rare combination of magnetic properties, a finding that could open new pathways for designing advanced..."
+  },
+  {
+   "id": "2cacd2cf93dd",
+   "title": "Universal Quantum Raises Over $100 Million Series A",
+   "link": "https://thequantuminsider.com/2026/10/08/universal-quantum-raises-over-100-million-series-a/",
+   "source": "The Quantum Insider",
+   "published": "2026-10-08T07:37+00:00",
+   "topic": "Quantum computing",
+   "snippet": "Insider Brief PRESS RELEASE — Universal Quantum, the company building large-scale quantum computing systems for real-world use, today announced it has secured over $100 million in Series A funding – marking the largest Series A ever raised by a quantum firm headquartered in the..."
+  },
+  {
+   "id": "d5c898b22aa7",
+   "title": "Kyeson Blake Utley Launches GhostKey Development, a Texas Firm for Post-Quantum Cryptography and In-House Penetration Testing",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuV2lhT09SS2s0Smd6QV94d2NnckJWWGxGWUVVQmxBR041REtYajQ2OVFHNjVleVd2VnpEeW5ITEU0NlZ1QnFBT3BVU2x3Y21q?oc=5",
+   "source": "PR.com",
+   "published": "2026-10-08T07:00+00:00",
+   "topic": "Quantum security",
+   "snippet": ""
+  },
+  {
+   "id": "47d6db9afb82",
+   "title": "SRKK AI proves artificial intelligence can deliver real enterprise ROI",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObTFZemFNeF9hdjdQQlA2THdnRFI2NzBHUzNIcVJZaTJsVFRMSlc1Y2MycEJjRnI3TUptRW1zNGZMZGczLTVXWUZsWjk5UHlSa0dKTWUtS3V1d0pQc3lvWThPM3lYWVhjbkk4T3ZEX0ppd1NNdkV3OFkteHJtQ3Z6VmFOM014U2s0am1MTjhUcENHQjhHV0JVV3c3VmNvRDk4eWE1VXp4Q1Ixa18xSGlraDBrQ29Xc0FWcE81OW5EMNIBxAFBVV95cUxOWTY5SG5ORDdJZ3gwRGFjcXRwYktKQUIya1k3c2dSZ29vQ3JCb3hFeXhDSjUzQmZLRU96bGM3S3FHN0dtNDlwWlZQcEpPdXpBRW9qRFIzeDZ3NTFvZms3TlNLX05KY1czOEdVVl93QVVYaERUX2VUVDVRRmhDNWswU1hzMHNkNTdzNTBYTnpGRFlDcDNLb0JTOGduc3lsMVZIejYwSXJCWXplYm4xREgxY0NnRHc0NXFNY3dZa3gtTHg5RUc0?oc=5",
+   "source": "NST Online",
+   "published": "2026-10-08T06:58+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
+   "id": "d057396443ee",
+   "title": "US defence invests $73 million in Diraq with another $357m on the table",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdjJCYWtJSDRFd2tfQkFMN01DbzRIRlZzVm1kendWQ1kwMGh5OTlFTnhiQV9kbWtnUWN0NVNkTXpic2NsQldVazBTbmZJVjVFUWZHT05ZdFNXZ051WVB5Y0RnZlptQW1KNkx2NW0zX0QzTjFVUGlZbE81b2hLYVhHdlNkY2MtYTV1VEhhNmtCcy1KMUtLUWJxTDVGdHFSaUNKQmlxbkpIRkg3NEs0emNRanRDTQ?oc=5",
+   "source": "Startup Daily",
+   "published": "2026-10-08T06:23+00:00",
+   "topic": "Quantum computing",
+   "snippet": ""
+  },
+  {
+   "id": "c41ee13b9fb8",
+   "title": "MIT professor uses machine learning to cut data center energy waste",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3BSUmtaTlpRR3BJbi1PRmhPYVlQTmRqbnEyV004OVNRY0JvdS1KcG5INDNIaVJjRXR3aGJ6OV9fclZWRlozSF9VQ3IyaEJMWXZCZ2FQNjRYWFRjMTdTWk9aZmZseWZQUHJSSnVtdjZkYkMtRFJMRUdwMUdpYnlaQm9uLUExZ1ZYRlBnd3pKUzdXYjdWbFJRNmNJd1Y?oc=5",
+   "source": "news.lavx.hu",
+   "published": "2026-10-08T05:45+00:00",
+   "topic": "Machine learning",
+   "snippet": ""
+  },
+  {
+   "id": "ab004fe6ebda",
+   "title": "Researchers Develop AI Agent to Auto-Tune Quantum Parametric Amplifiers",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMaVVXRHN4dUIzazd5TzJWSF9vNkJLRU9tZ09DRzFUOVBGeGt0b0VuWGJUcHRVX0pJQU9kaFdSbm1CTlM5NUVFQUl0VGFXMlJFZzNSc3VRSURiaVc5bHc?oc=5",
+   "source": "AZoQuantum",
+   "published": "2026-10-08T04:57+00:00",
+   "topic": "Quantum computing",
+   "snippet": ""
+  },
+  {
+   "id": "efb7466c05dc",
+   "title": "NTT Docomo Business partners Classiq on enterprise quantum computing",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzBEMXktTl9BZFZLTWg0ZWgwTDRZN2QxeTBCSVhYRXVJUVZVRy1vUUs1YWIwZXlTUHc1NG9SWTBfekxITHJKM3VaclotMXFHNkNKcmd0Wk9xZEJFRlp5SzBTWFZhVVhla2tyeGZCejBab2lpVnVyd3RsTWp2Wk5GWTZXVHF4dDNieGp5b3BOODJaSUZKdUxtVXQ5cmxMZXRud24zZEYxSGxfVW1meTVaaQ?oc=5",
+   "source": "Telecompaper",
+   "published": "2026-10-08T04:54+00:00",
+   "topic": "Quantum computing",
+   "snippet": ""
+  },
+  {
+   "id": "e086399a57cc",
+   "title": "Aventra Group secures ISO 42001 artificial intelligence certification - Vietnam Investment Review",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVpNZGxyYnliUEdhTERzcHRVcDFGRmdtdG5uZklJUC0xNE5ZUGw1WXpjRk00Z3ZPZ1RVLXhBSkVXN0UxTmFRZ0U0a1NLMEgxNTMzYS1wOVg2cXBMaXlUQk5LSjVCLV9xeFdkM2dJMEFHQTB3bUhXTDJodGowZWxvaEhrWTNfUE4yeHRBbXNkRHJWZV9iZDBDbFNoaEFpY016bXc?oc=5",
+   "source": "Vietnam Investment Review - VIR",
+   "published": "2026-10-08T04:07+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
+   "id": "3273be70ed1f",
+   "title": "What Anesthesiologists Need to Know About AI Regulation and Intellectual Property",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazN6OUR5bFZod2tPaUF0aWJPS3FnOVhMYjVWMUV5SWdEV3UxQUdNc0JLY1ZQaWNoNnBuNm5sMEhFRG1uYmprbEN1NHI2clB6d3Z2Ym5uQ1hDU0J3R2o4cV8zc0FFSkloSWYzYzFXNDBPVGRWaGx1TzdyQ3hIbkFhWjRmOVptWWVCMlpOVHlTZEdFSzRhNy1ZQ1FvaUEzZzEtRXJIak9zeW1HQkRNY3NHQ2NTelN3V1lyQ1NkMHhIZU8?oc=5",
+   "source": "Anesthesiology News",
+   "published": "2026-10-08T04:04+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
+   "id": "0ec9dfe1b807",
+   "title": "Machine Learning Could Help Buildings Manage Peak Energy Demand",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ObUEwYnM4SGRHMWhNdmtULS0tVklMdFF6c01sZFlOQ1p1QVRVNUNaOUVGcWg3SUJLYlJxMFpKSE5tdVZWdmpjV0MzdzJ4WkFveFZRcDVWUkJDMzRYaXU1QlQwb0pNQzBDazBCWWxmNFR1UUZ0TnR6UF9qNA?oc=5",
+   "source": "Energi.Media",
+   "published": "2026-10-08T03:50+00:00",
+   "topic": "Machine learning",
+   "snippet": ""
+  },
+  {
+   "id": "7fc17e229fb8",
+   "title": "SpecterAI Quantum Security Leads Interactive Quantum-Safe Banking Workshop at Inaugural Asia Fintech Forum",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb19rb3l3SUlkZkh2ZU43S3h4aGlMaFg0bndXZEs3dHNtMDEycmF5N3ZfckU4TUlaazFOOXA2VHRuWXhiOUtqem1JN2JzdncxY0NJb1lLXy1fUmFyNGItVlEwOXJfVkdKb21JMGdwNzN5cm1PX0pwTnRUWjV4Z056VGxSVGFMVFFnX3IybS10b2tuYTA4Z2JaMnNKazItV1R2Zk1UOVg1eEwwcWRVc1FmaE9xRTk?oc=5",
+   "source": "The National Law Review",
+   "published": "2026-10-08T03:49+00:00",
+   "topic": "Quantum security",
+   "snippet": ""
+  },
+  {
+   "id": "5ac1fdcbc380",
+   "title": "A genie with regulation",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQellfWlZqN2FpMGZVajN5OFNvNHBOUzIzQ3Y4UFVnTFQ1NEEybE05M2lWUkZ6bml3VU0zZzZPMlY5aFhrMlY1djY3UjNGbnJmVWFlcUJTb25sWU1tXy1BMFVjMUw5bDNVRnl1bGp5TnBLaDd0ejlCODNjMDNLNWczeVE0bnBTdi1fWkpZTVlxZ0h5OUFlOG5OVXpjM0FDcWvSAaQBQVVfeXFMTmFjRnBhMFlQYURZMnRMS0xXbzhidzNNZk5DQ1RPaHJWZll2RWJQRkh4NUVYTjJqaFU5eDh4MVp5LUJvRlFYNmVVVXBhUXh4bmpIcXdPVDNCSHNMc3JJZlQ0VlNtVVZDcXBzSnFoczk1elhnNGc1NzdLRnJOb25qQ1B1dzlUdkR4RjVxREdaaEtDSWMxQzRrNEFfQWlzQjdMQTg5Szg?oc=5",
+   "source": "Telegraph India",
+   "published": "2026-10-08T03:01+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
+   "id": "f215f415ceb3",
+   "title": "Sonata Software receives sixth Microsoft Inner Circle recognition for its AI work",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQanJscUc3cmtNNHExYWpVZ0x5OEpSY2hWWF9PbmV4anNwSkNpdmVIR2ZHbW45ejI3bzB0N014UHRUdENrYXRJRWZNVl9rVDdadGtmY2lOLUM0TEdjdXdtWkx1Z0tIN3BQQXlaX2k5LW9oMFJCakJaMVRDeTBFbUxvdDY0Y3phTzlwVlQ1SFFHRndYWFIycHgzX1EtcnQ1UWFWU3puak4wdmlZYU5Ca184NkFLc1dHMW5iS2FodQ?oc=5",
+   "source": "Contxto",
+   "published": "2026-10-08T02:53+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
+   "id": "b23b09d30461",
+   "title": "Regulators Pioneer Fund report: Ambient voice technology in regulatory practice (CQC, 10 September 2026) - Patient Safety Learning",
+   "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNc0ZnaGpwbFBWTjVDcEppLVNpNS1CNjhYV1B0MlVDQUkwckNGRnBsVDJsMGNXcHVlRjNscFZxeURwekJ1LV83dlJlbjhqZktvTk82a2Y1cy1rVGRXUFNmbjAxc0ZHWTBxcHhaT2dMWVZwSGlvejdLUlc3WGItOE5VNnFkakpzOVZJNG9vSF9BdENSMWRXRmFTYl9XWXQ5aG1ZYTFHQWQtUm0yZlp4cTVCRlpEcnFqNmJGdWtCWWpFeFdlRU9yUjRjTWp5STdCaGhZUHVvNGMzNktSQmxFT3pSbzNaX2FSTU1DWXZKbG1MTEdYdTdjRnR2dHZDTDRfS21xeFluZVdUOG5mTG9tVjZTZVJGS2RXQTFFdUhwYjNVVmdja1JGWHpHT3hIOTM1WWdHME5RbTg5cXUyUnVCUTZiTFN3YWdKX0d2TVFnWTc1TFJwTGMtVFJmUGdCNlhOVjNWZVJ6d0UyeFA1X3FWakNXT1ZXcW8xeUdRclQzSFFYVmpUZ19yaS16UDNEdkdRMGpKWjRqUnhrc3dHTDA?oc=5",
+   "source": "Patient Safety Learning - the hub",
+   "published": "2026-10-08T02:11+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
+   "id": "7b5e052238c0",
+   "title": "The ‘Elasticity Score’: How DraftKings’ Machine Learning Model Allegedly Worked",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnZ0p1RVpZVEZCdEFJXzAyQzRGNEI1aHRFZXlDNVFESFBGeTlWMVpqVTMycjZOZWRRbERzRG9USjdtZ1R1dXI2cU1obXYxNzBPa3pGb2Y1TGxIcDZHblZrVEo5QTNSaVNsODRnYmJTX0hldWZja0VUeA?oc=5",
+   "source": "WellPlayed",
+   "published": "2026-10-08T02:06+00:00",
+   "topic": "Machine learning",
+   "snippet": ""
+  },
+  {
+   "id": "9bbcff54a213",
+   "title": "Researchers Achieve 85.3% Accuracy Via Quantum Classification",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObFY3MUc3dmF3UC1CZ0JfLTZMUWhSSDhFV1ozNXgzYk9CeUVxVl9LSUZrQUE3VEF1QnBCMm8xc1ZvWHM0a0Fxd0FlUWd2cGhwRTFiVG9rcFEycFZZcjRiZEJQaklVME84TEk0V24zWDNlcER3NmVmZml0MjhfOTgxVXNnYk9BWi1GdWhEZ0dqeDhfalBvZi0zVQ?oc=5",
+   "source": "Quantum Zeitgeist",
+   "published": "2026-10-08T00:02+00:00",
+   "topic": "Quantum machine learning",
+   "snippet": ""
+  },
+  {
+   "id": "f1834e7c57e7",
+   "title": "Cisco Releases Quantum Network Controller and Network-Aware Compiler v0.2.0 for Distributed Quantum Infrastructure",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVi1hYkczR25Lalgtd21rdEJBMVQtSFhzWmRKUURDLTZTUjllU05FbHlKdzY2ckgwbGIteE9mVVVYQVBubGZOM0theTdva1BHdkFfZXk3cEtJWktYY1Q0UHp5OURRaTV3ZkVtUDVwMnZMalp5YXZKdm9IS19VSmtPSEpaV2QzSXNHSDJtcTdaZjFWRzZZdDFPN01BSHhsZ2VJMm1UVUdtWnFIQjZRS044YkVVa3NLS1k1SkxyUC1hZ3JESUtjLVJzRXBsWUZtTDNITzFVTGdnN1FWeDZwNFlfX1ZPUFpIS1VIVHfSAeoBQVVfeXFMUFYtYWJHM0duS2pYLXdta3RCQTFULUhYc1pkSlFEQy02U1I5ZVNORWx5Snc2NnJIMGxiLXhPZlVVWEFQbmxmTjNLYXk3b2tQR3ZBX2V5N3BLSVpLWGNUNFB6eTlEUWk1d2ZFbVA1cDJ2TGpaeWF2SnZvSEtfVUprT0hKWldkM0lzR0gybXE3WmYxVkc2WXQxTzdNQUh4bGdlSTJtVFVHbVpxSEI2UUtOOGJFVWtzS0tZNUpMclAtYWdyRElLYy1Sc0VwbFlGbUwzSE8xVUxnZzdRVng2cDRZX19WT1BaSEtVSFR3?oc=5",
+   "source": "Quantum Computing Report",
+   "published": "2026-10-07T23:23+00:00",
+   "topic": "Quantum computing",
+   "snippet": ""
+  },
+  {
+   "id": "fb2acff6b163",
+   "title": "QuantumCT Opens 4,500 Sq. Ft. Innovation Headquarters in New Haven to Anchor Connecticut Quantum Corridor",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ3B4QWM0YlJmRXlWNkJSVldOYk90bUJ1NnVFRnp4bmI4SVFueC1ERkxHTHRPMkFjUnM2NlJjOHN3N0huS3FvaGRMbXM3MGp0WUxXaDhEUzdJc0w5TFJNTi1NeG1OYkQwUDRQWGhzamJEMnhPbWhqWUdlTlpYaGEwWUxKY1JUYlBPRFdVY1hSTVVUNDc3ZVRnTHlRTmxwWjhnZFEzQlhHa1lWbDl0YXV2cGV2V1UySjBWZ01iMlRxYW42NEhXZFlWRVF2V3YzSm1YeExVMFljWm13UdIB2gFBVV95cUxNZ3B4QWM0YlJmRXlWNkJSVldOYk90bUJ1NnVFRnp4bmI4SVFueC1ERkxHTHRPMkFjUnM2NlJjOHN3N0huS3FvaGRMbXM3MGp0WUxXaDhEUzdJc0w5TFJNTi1NeG1OYkQwUDRQWGhzamJEMnhPbWhqWUdlTlpYaGEwWUxKY1JUYlBPRFdVY1hSTVVUNDc3ZVRnTHlRTmxwWjhnZFEzQlhHa1lWbDl0YXV2cGV2V1UySjBWZ01iMlRxYW42NEhXZFlWRVF2V3YzSm1YeExVMFljWm13UQ?oc=5",
+   "source": "Quantum Computing Report",
+   "published": "2026-10-07T23:03+00:00",
+   "topic": "Quantum computing",
+   "snippet": ""
+  },
+  {
+   "id": "e69456163611",
+   "title": "Europol urges early shift to post-quantum security for crypto and sensitive data",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSjNQVkxxcU5xZ1dIUGtZMlZfMHBNNWxnR05lNjlBT1E2U2lib3hhOWZwRmdPV19wWkt6VVBjcDhtMDJiclRlRkxkcEFhRk5KUVFGdVpqankxc3U2TjFDejNUVWRmZk90eHJPRXhraEF1dThvRUkwdTJNMklNci1ZM0pLeER2WjhQbDNuUGlOYXVTM3BmX2tIU3FySGc2NzNiQmotUm9XWkRLMnNSY21EYWhrUEVRNElmQld0QXpBYmczMkkzcGNfSjlnN0hLa3lXQ2JiUWR2cHlMcTR4X0RLYw?oc=5",
+   "source": "INSIGHT EU MONITORING",
+   "published": "2026-10-07T22:47+00:00",
+   "topic": "Quantum security",
+   "snippet": ""
+  },
+  {
+   "id": "54eeb0a13161",
+   "title": "GAO Audit Finds All 24 CFO Act Federal Agencies Unprepared for Post-Quantum Cryptography Migration",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLXNlY1NVSkVhcmdkTmh5dDRCaTZNVTR0c3lvS0tDeHQ2cExiSjJNc1J4TVNUSE9SWkp5b210TWd6QW5zaGxJYmNPWHpiRjlRMlF3MDYxaFpRemdzOHpMYkgtRXNqX2Q5YTF2V1MwLTZucHVzX09hZzBVa0d4aWRLT1phNXVYZXZrVmZJd3lsWE8zWjNzYXFwSXNWTE1kOGZmMHd1dnhhbXU4UGxIdHVrdGd2cTE4MVZXRkREQS1YSUs3VjFlcXM2Zjh1aV9DUlXSAdQBQVVfeXFMTmNjM19TeHJHeTdObnNQZ2xvRzA5MEtYTVNhd1hoSnFaWkFhVUFLM29VaHJ1Y01yS09UU3pLX0xyVFlqcjQwLTlkVnYwdUZIVWpTR3lTTzNUM3JKdDFsaURKLWpMWFR5MFVIZU1DMUtUQVc0VFFWYkJlSHQxTl9zekhJa1psRmV0NktZb1dLSDNGQUFBWEtnMlZmYlktNGJ1LTA5dnBpSVY0bmlDS3dsaXJCMWFMaU1La2R2RGVHYmhUa0xfbHhvWlpGOU9IZW8ycFptRWg?oc=5",
+   "source": "Quantum Computing Report",
+   "published": "2026-10-07T22:43+00:00",
+   "topic": "Quantum security",
+   "snippet": ""
+  },
+  {
+   "id": "ef8f8cf913db",
+   "title": "Zumo and Quantum Chain Partner to Deploy Quantum-Secure Financial Infrastructure in the UK",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0RraFlFVEV1UWpUY0pEYVBNV00wMzhjLUthVTN1b1FPaDFFakFkSWdKUHU0Ri1oZFpSWmFJMVA1c1hhZHoxUHJGblpveERBdDRCTmFUeXFMbG03aDlNaDdja0dzbjEyaklzd2tjRk9yQXFHaGUyalFYTEllRVNvazZhaEdFc2RtRkJ6SVFnYzRVWUtUTTdGMHdJN3VJQkhCSGFJM2toUUZoQnJsSnBrUEQ0bUxzRWxGUm1NX2RWalZIZDc00gHKAUFVX3lxTE5ERUthM2drT0RlVTFEOW1kYjlobEhtakJuVm5CTUxQTy1iNDNVM0Q2bkN4XzktUGM5N0NPZ1F0U0lHTERaX0hPaFpTS2REQXc5ZzNqVWVpRGMxbnc4bF9wWXpIemdlSjdEbm9nemE0U2RpZ0M1Q3d6VlBPRUpkbVVvSjZJRU56ZWcwQmcxcFlxUFU5cVBpcFNVa1BZQ09FeHJvazBhYnNGTm5tVWtNbW13ekdBWXNpLTZYZ290VU9OZU83QjZ0VVpWckE?oc=5",
+   "source": "Quantum Computing Report",
+   "published": "2026-10-07T22:12+00:00",
+   "topic": "Quantum security",
+   "snippet": ""
+  },
+  {
+   "id": "5d5807d6888a",
+   "title": "IBM advances to third phase of DARPA quantum computing program",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZjFCSFBRUjZoMUthQVRDN2RYV0VvTGR0c05rVnRUbF9yY2xNd0ZzYjhXZ3JxMm1Tek1rU2ZMVV9TUVRkTG5maEhZSWdFbTNBa3hfOXpMcklqeTNPdW53SS1aR01CSFhHbTRUMWwwTnFoXzBWXzg4bWlNdzEtQVN4LUV4RVY2OENxak5RUG5PTnpxS0FxTlM2WjJ5LUd6bmdta1kxYkx5N0MzU2puenhLQWhHMVZJbWxIdlZ3?oc=5",
+   "source": "Investing.com",
+   "published": "2026-10-07T22:09+00:00",
+   "topic": "Quantum computing",
+   "snippet": ""
+  },
+  {
+   "id": "845483ab894d",
+   "title": "Diraq unlocks up to $300M in US defence funding for quantum computing",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjRFVXIzUzItWHhaVkYteklDVnVFaXlBdV9BOFpRUmNYVUczdWREYndONnQ4TEJmaWg2N0Y4ZENmbGF0WFB1UXBCMnY0OWRzOGFLTFFUN1hNM09WWWVTZDlpRk5fbzJHRExnMENNT3hkeTZrT0lqNUs1WDJvajBnZHRycjJNa1VOTFZJSi11LU1oZENCdl9BUVRDWFp3QnhZUG5zYg?oc=5",
+   "source": "Dealroom",
+   "published": "2026-10-07T22:05+00:00",
+   "topic": "Quantum computing",
+   "snippet": ""
+  },
+  {
+   "id": "5d9cc4bf369a",
+   "title": "IBM Advances to Stage C of DARPA Quantum Benchmarking Initiative",
+   "link": "https://thequantuminsider.com/2026/10/07/ibm-advances-to-stage-c-of-darpa-quantum-benchmarking-initiative/",
+   "source": "The Quantum Insider",
+   "published": "2026-10-07T22:00+00:00",
+   "topic": "Quantum computing",
+   "snippet": "Insider Brief PRESS RELEASE — IBM (NYSE: IBM) today announced it has been selected for Stage C, the third phase of the Quantum Benchmarking Initiative (QBI) led by DARPA, the United States Defense Advanced Research Projects Agency. This phase will advance IBM through DARPA’s..."
+  },
+  {
+   "id": "63342ad1dbbf",
+   "title": "Making the Case to the Board for Post-Quantum Readiness",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNkV3SHVPYU92YnpxM3dhbDZvQ0U0MUkxZ3hzcVFpLXYwUjY3REJvQ2wwWkZ1eGotUURUZHhZTUZNdUphQ3M1NFhLUWpXV25xOXBYVGUySnp6ck53ZmtuczhzWlJlbDM0RTItaDFNcEVKdGdxZ1g5Zk5xd1pYeUhaWXB3N2tsMm5QV1Q2RU5wdFo3dw?oc=5",
+   "source": "BankInfoSecurity",
+   "published": "2026-10-07T21:59+00:00",
+   "topic": "Quantum security",
+   "snippet": ""
+  },
+  {
+   "id": "0f48bccd5809",
+   "title": "Project Eleven Launches Strongpoint Post-Quantum Custody Platform with Zcash Foundation as Initial Development Partner",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdzRFMGphMkZFQ0hJbFdIbjVrczUzNGdUWnY5eUxzQjN4bkhTN09mX1ZTRzNnTGVEQWl6ZUNienlabFJEYzF6X0tOa09qMU1uZktNcGR3WW1wTTZSUVNrRjJVYXhtUmI0QnBPU1RvREs3dXJuUmI1dU1Gb0Q4di15NXRrc1V6djR4X05NQ29wbVJmcG4zVTdCQlZFNkdOUDBWWndiaFBSWHFPcEpHUXNQaWI2Ynl4bnhGaGl4M05tcVIzVmFidllaUkVJYU1xTjVHbGlad1U3QmRLT25ybFBqS2tKc2wyZ1ZYSURTbzBRZ9IB7wFBVV95cUxOdzRFMGphMkZFQ0hJbFdIbjVrczUzNGdUWnY5eUxzQjN4bkhTN09mX1ZTRzNnTGVEQWl6ZUNienlabFJEYzF6X0tOa09qMU1uZktNcGR3WW1wTTZSUVNrRjJVYXhtUmI0QnBPU1RvREs3dXJuUmI1dU1Gb0Q4di15NXRrc1V6djR4X05NQ29wbVJmcG4zVTdCQlZFNkdOUDBWWndiaFBSWHFPcEpHUXNQaWI2Ynl4bnhGaGl4M05tcVIzVmFidllaUkVJYU1xTjVHbGlad1U3QmRLT25ybFBqS2tKc2wyZ1ZYSURTbzBRZw?oc=5",
+   "source": "Quantum Computing Report",
+   "published": "2026-10-07T21:59+00:00",
+   "topic": "Quantum security",
+   "snippet": ""
+  },
+  {
+   "id": "2b2f2fb9341b",
+   "title": "UofL helping prepare students for AI in the workforce through Cardinal Intelligence",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVlRHMFNJZG1Ia2VvelozVk9UZEFNLWVYVkJzSENYWWVUajRxUGJYU25HS2dwS1lIQ1NsN3QxUmFKbk4xSUdzUTJDYjA2VDlIY0FieEpaSXJ2cGNUb2lvU3RPQ0xtOGg4SENSNHFMLTZJSnJwNng4V0ltNnM0c09sZ1JubzB3d3lsc0tJcDJrR3dPU0pUci1tMW5n?oc=5",
+   "source": "WLKY",
+   "published": "2026-10-07T21:53+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
+   "id": "ea0c24a0ce87",
+   "title": "IBM advances in DARPA’s benchmarking for quantum computing",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR3RXeXN5Q3Y0NHItRG5LRWt1el9fSWFpY3NKbV93OThrRGJzeHZkNVdOcnFuMUNEOTA2NHBHTjF0dGItYWxZd1BnajZuYklaMllHOFU3cDBlSjZwOWQ5ZTgtelVJQWx3V1hNYkNLanI1RW5kUHF2ZUVoeEt2MW9uZWNvTDRkeVk?oc=5",
+   "source": "GamesBeat",
+   "published": "2026-10-07T21:34+00:00",
+   "topic": "Quantum computing",
+   "snippet": ""
+  },
+  {
+   "id": "db8bce161097",
+   "title": "Quanfluence Secures $10 Million to Build Full-Stack Photonic Quantum Computer Architecture",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbUVhNGxUT0t1SjJqTmFMZTZwYUNHT2I3d0dkRnd0YUh2bGh6OE8tNFlsaWZDNWJEelE4bDJUa0MzVEwyeGh0Um5UaW1zZ2cxTEZIeFdwc204ZmtrVlZfTnhMcFlxR3VLcndjc0I0Uzg5UURrMUFJbWF1QUlyemNKaFpodlhCNlZIU01wbkpsWUtoNUxGWWx1MmtjMWp1eml3MVBEdVlxbHFSOGxBSE9TU3gyZ3ZnUHhwcGFMNm5MUGJMQlJuSkF6b9IByAFBVV95cUxPbUVhNGxUT0t1SjJqTmFMZTZwYUNHT2I3d0dkRnd0YUh2bGh6OE8tNFlsaWZDNWJEelE4bDJUa0MzVEwyeGh0Um5UaW1zZ2cxTEZIeFdwc204ZmtrVlZfTnhMcFlxR3VLcndjc0I0Uzg5UURrMUFJbWF1QUlyemNKaFpodlhCNlZIU01wbkpsWUtoNUxGWWx1MmtjMWp1eml3MVBEdVlxbHFSOGxBSE9TU3gyZ3ZnUHhwcGFMNm5MUGJMQlJuSkF6bw?oc=5",
+   "source": "Quantum Computing Report",
+   "published": "2026-10-07T21:34+00:00",
+   "topic": "Quantum computing",
+   "snippet": ""
+  },
+  {
+   "id": "65faf884835b",
+   "title": "MIMOS and Quantropi Announce Strategic Collaboration to Advance Quantum-Safe Cybersecurity in Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWxfakJ4cWVPUVpkWWhWdXduV0kxbkx3N0M4b3hhYTNoWnpIZlVraHIzR3VBMlFnNFNGOXFjUDdOMWZRQVZzZTUzWTBhVjAzenJwQlVNd3MycFZ1amRUTHhad2NIQmlPQ0E3aktYRG5pR0oxMDIyenJoNVJNVTVLb01tU2IyQUF2LS1GY2ZCRWpJQW9ER1FPQmR5MlZnYzlvR3NIdnZWOXZwZndEZkhKbEJB?oc=5",
+   "source": "Digital Journal",
+   "published": "2026-10-07T21:29+00:00",
+   "topic": "Quantum security",
+   "snippet": ""
+  },
+  {
+   "id": "66caf74dfec8",
+   "title": "GAO Finds Federal Agencies Not Fully Prepared for Quantum Threat to Encryption",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdTRXOGJTVU9zT2Q1bTJpSHJXLU1xV1FzQ1F5NXlvNjVVcm93R2d5WEg4Z21pQVdyZHh0bWhCa1pnUk5OS1pVdzlJQjEybUpZLTdFWmxhaWowWEQ1TUFvb3U1REFJd28wcTNPclp0VnQ4Y3pTaGVwX3VDNGdWUmFueFRHRHlsckw2NmtIUlhOVjBieUU?oc=5",
+   "source": "ExecutiveGov",
+   "published": "2026-10-07T20:32+00:00",
+   "topic": "Quantum security",
+   "snippet": ""
+  },
+  {
+   "id": "4dfd2f10540d",
+   "title": "Richard B. Alman Releases the Innovator's Synthesis: Disruptive Strategy and the Human Moat in the Age of AI",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSDN1eUNvTW54STJYTzJDdWtweFk2WXl5YktqZjZ3Nzk1bEhCcHFzd2NiM2Rfd2JXRjZZUEMzSXZ5dDVQQjFfR0pTVlJ2NnRteGxWNXhqU1ItSk01MXVjS2YxdHZCTWhLQUJTdmJmSW1oX2Job2QwcXhqZWV3Y2QzaVFic0NiLWdtYldfc2xMSndJYUdLVklqc3ljWG9vYVlnV2VXa2xQUEVxeXQ1YmtTcS1wR25FcFd3aEdDVC16STRibnNXUGNaX0d2djNlUDQ3aEdlNmdRQ0NJaFJLU1dLel9VaHJlZVM0YU1HY1ctN2x6OFZaTUc1cnRxZ1c?oc=5",
+   "source": "FinancialContent",
+   "published": "2026-10-07T19:59+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
   {
    "id": "e7097926304b",
    "title": "Another quantum computing firm partners with GlobalFoundries",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN3JReTBSWVczSU9tQ2xXSWZqZTFtS2R5QmVBd0JkTjZ1V21Ia2xZNFhpZlhMZXVSa3RaVjRVbGtRVWwydDlDRFdNMFhQOHVWRW9mdUdSQWtYNmpiNGRWOFVEYXk1QkpfUzRfQnIteU5yR3lJSzJjSHdrdlE1RE5zdmVKZG9nVW95R08xcVZUdXo4dXdSTHpxcTJmbTc?oc=5",
    "source": "Times Union",
    "published": "2026-10-07T19:29+00:00",
+   "topic": "Quantum computing",
+   "snippet": ""
+  },
+  {
+   "id": "27c3e4ab43bc",
+   "title": "Daily on Energy: Nuclear plants embrace artificial intelligence",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFpjRjNvS3Z0RFRWcW04YlF5UjJoTGRqdEQ2MzBxQ3ZZN1plZjZVSmxPZl91MldISWt6VDVTdGt2U0ZpVnJBTlhHQ01ULUhpMl9rM1kzSkxQcVRrb1JlX1d6ckUyZlBUUXhZMGRxRlVWY2NQUmNVS0NCNmhiakJHa19taUp5Y1hlLVNydWlCZnM2anBMVHJIQW5aRmN6a0NfTDV1c29HZjRuRGdOaW5PaFJnR0xVRzZ5SzRsQ0tyWQ?oc=5",
+   "source": "Washington Examiner",
+   "published": "2026-10-07T19:19+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
+   "id": "b886a84996ec",
+   "title": "Cantwell unveils new AI framework",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0hXNFNhNUJGX2ZkRXgzMi1GN2NlTkk0NDdoMGJoX05MWnR4SHRtelBNc24tWXFsOE96dDdjTTNTWTZNYXZnVW5TbENNUVJXVlNtc2FYcGNsZXRnM1FwejdVVEhXeURSSkhiLVN1NlkwelNNdjFnVWx1Nl9EcGlvTG9CWjdFQ1BFbnV6ak5VR0VmdmNGNnfSAZYBQVVfeXFMUHdIVzRTYTVCRl9mZEV4MzItRjdjZU5JNDQ3aDBiaF9OTFp0eEh0bXpQTXNuLVlxbDhPenQ3Y00zU1k2TWF2Z1VuU2xDTVFSV1ZTbXNhWHBjbGV0ZzNRcHo3VVRIV3lEUkpIYi1TdTZZMHpTTXYxZ1VsdTZfRHBpb0xvQlo3RUNQRW51empOVUdFZnZjRjZ3?oc=5",
+   "source": "The Hill",
+   "published": "2026-10-07T19:12+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
+   "id": "c2bcc32c0685",
+   "title": "Haiqu Unveils AgenticOS Platform for Automated, Scientifically Verified Quantum Research Workflows",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFNOeWFVR3NaVG84V2RDcHJSb2d3Sm5jSlFLbUpfWk5OMVRuT1V5OU5aSWhDYmRabUxKNlp0Q2JORmYyNEFkTG9nSVByMUltNDJ4RUlRR3ZEVFl3d09mWE9UNml6eTlEUkFsU0k2V3NNSUlNSUd6VEc3TlhYT0I1SzFfNU44TUJtS19ZUUJ0NGdrMEN3N2k1LUE3U1FmZzA3ek9EdF95dlZQMkFzZlpoMDFpa1RJTEJocnNQQ1Vuc1JCekdHdlE1SHp0QTgxQdIB0wFBVV95cUxPV0xzbFlKbjFURG05d09fT2txRnlJTHJjeW9IVnB0X0JUVkUwN0oxa2I1ODlFQXlPVTk1SDZYNm1OUFBPWDgzTE1lSWxzRFB5eWh6a2NMM1UyOTBscnlnajVfd0hXNVppbTB2VU84bkh5aFJGaERNekwyNDE4dTlNN1FQRE9zeXZZRy02c0JyQ1V2Z3NHYzdxR1I2VDJnUy1KMVJmS01oUEYzMWJEMmpMRUc3U3AtV2QtdGxNZ2RvZ1FXV3NFNkdWWEQxRGJzM1lSMlNn?oc=5",
+   "source": "Quantum Computing Report",
+   "published": "2026-10-07T18:54+00:00",
    "topic": "Quantum computing",
    "snippet": ""
   },
@@ -20,12 +425,39 @@
    "snippet": ""
   },
   {
+   "id": "494951d0a647",
+   "title": "Introducing Claude Haiku 5.5 on AWS",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkU2SklzNGNKdXpOWUpkMFJhVEZvbGpLWlpUeDIzakxtcE1HbVRFeGp5N3FDNXlRd21BWWwzd19Na3RadEpaVk9wY3luT3lBc2tQdk9EcVkwNEZ1RTZJeUlpaDlVaG42MWx6U2h2RERsWXA0RTk3eXlTUC1EVzNFQ25EVjBLQUlrYVE?oc=5",
+   "source": "Amazon Web Services (AWS)",
+   "published": "2026-10-07T18:52+00:00",
+   "topic": "Machine learning",
+   "snippet": ""
+  },
+  {
+   "id": "296f4e32502f",
+   "title": "O’Reilly Launches Expert Intelligence to Ground Enterprise AI in Practitioner Knowledge",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbFVDNWZrUERjN3RMaVZfd2NyOGlZNTNTRXBULU42NU1kUGMwanVyYVhyc2s1b2owZVhQTFVQTWRiRVFmNzMwM0xWbklfNEJ3LUlMUFRuc1dlclkwd0VONzFESFFpRHhjYUk1Y1I2bmFFMWVuT1lEdVVhSWtpZU9JVFJ1aWNfYWw1UE5WQW5nLTNWaHdRUmIxTlFKQWhjd0lpUlZDN0pQNmk4XzFJZlcxTTBvcVE2RnIzTDJfbEtKeGxuaDNBS2t2UTY2S2ZuaGF2R0E?oc=5",
+   "source": "HPCwire",
+   "published": "2026-10-07T18:37+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
    "id": "3dfa3ea5c0d8",
    "title": "Charting a secure course to a post-quantum world",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2NISkF5SmYwLWVwOXlfYUFtLTZKT3Z4WThKQnNjbEFzMlBkQ2tYUXJuMUYtS3lEaHhvMW5RZUwzcnczWUNTUzlMczdycDh6NFl0eURRdXU4V1VXVHlnRmhPd1FwT2VTSXpQUVdpZlp5c0kzMmJacUhYLXo3aTllMVFpcXBHMkRrQjZ3?oc=5",
    "source": "SecurityBrief Australia",
    "published": "2026-10-07T18:17+00:00",
    "topic": "Quantum security",
+   "snippet": ""
+  },
+  {
+   "id": "2242eccbfb8e",
+   "title": "Hybrid Quantum Computer Could Simulate Both Fermions and Bosons",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVa2o1bXd5dHlsM2FKMHJIUVJscHdUTnplcjFKdTRNM2E3YU0wOWJCNUlwekNZTjRtRGJtaTcwYUtCUXZWVDYtUVhRWi1SYWw0WlE?oc=5",
+   "source": "American Physical Society",
+   "published": "2026-10-07T17:37+00:00",
+   "topic": "Quantum computing",
    "snippet": ""
   },
   {
@@ -44,6 +476,15 @@
    "source": "PropertyCasualty360",
    "published": "2026-10-07T16:55+00:00",
    "topic": "AI",
+   "snippet": ""
+  },
+  {
+   "id": "c4d5f46fdb94",
+   "title": "Infineon and ZuriQ Deepen Partnership to Advance Scalable Quantum Chips",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbmY1TmxVbDNkQWhNWXlBS255UUdRdU1wZWVhZlNXbThhdXprbUlhcVc3Y0lWTjNZUDM4eEVPMl9vMjlIYnQ1VFZ6dlFKdTBkdXB3My1MZWIwRHpmQmd2RjJXdjFfU0RvNGVwLWdnVmtScUp0Tm5JWFFheXQySFBocHBxNGhRQQ?oc=5",
+   "source": "The Quantum Insider",
+   "published": "2026-10-07T16:48+00:00",
+   "topic": "Quantum computing",
    "snippet": ""
   },
   {
@@ -128,15 +569,6 @@
    "snippet": ""
   },
   {
-   "id": "c2bccdd0352e",
-   "title": "MIMOS and Quantropi Announce Strategic Collaboration to Advance Quantum-Safe Cybersecurity in Malaysia",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWFycE9iZDNNS1Vmd3ZYY2VxUzZlZ3o0UFlfMFY5bUVkREF0MFlERnFnOEhkallWYk1tc08yVlNjTUtKd3FYaWlJRDl3S010alpGQWtZSmJXMExzMXdaS2pGYm91c3F2c19VZEFHYVEyNGtGQkVJMEpHc1dISXp5YmgwYXhRUmRJbXZmUy01Ykh0NkxjU2gtZmhvenc5ZWhHU1A2Q0RYTElpZURST2ZjVHFB?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-10-07T15:17+00:00",
-   "topic": "Quantum security",
-   "snippet": ""
-  },
-  {
    "id": "d883ac6ee41f",
    "title": "Jülich Supercomputing Centre Benchmark Evaluates Quantum Error Correction Primitives Across Quantinuum, IBM, and IQM Hardware",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORXpRdHFfeFJDM0NQX1lPcTNoNWlHYzM2VHNMWGxiTV9meS1JVnhIQ0NycVAySnY4STVLYjRaWUR4V2VLRDdwWjgzYnIyVW55S1RBRVJ3Z0gyRGVxRFoydTZJSG5sZXNYTGFtN2hSN19VaUFTTXR1SEhDa2V1NE5NZkZaWnJsRWgzQVM1RV9ZUi1iOUgzeC1Jekd1d0ozeElUVGZ5U3F6eDBzMlB5dVpSbklpMzUzUlFpOE5hT0pFMmZPSW81bUVMdTNTVmpRU2VrS19CWHE4UUgyaFhTVXNWMFp4UTEyUEJIemhBWFJnTExuQXNQcWfSAfYBQVVfeXFMTkV6UXRxX3hSQzNDUF9ZT3EzaDVpR2MzNlRzTFhsYk1fZnktSVZ4SENDcnFQMkp2OEk1S2I0WllEeFdlS0Q3cFo4M2JyMlVueUtUQUVSd2dIMkRlcURaMnU2SUhubGVzWExhbTdoUjdfVWlBU010dUhIQ2tldTROTWZGWlpybEVoM0FTNUVfWVItYjlIM3gtSXpHdXdKM3hJVFRmeVNxengwczJQeXVaUm5JaTM1M1JRaThOYU9KRTJmT0lvNW1FTHUzU1ZqUVNla0tfQlhxOFFIMmhYU1VzVjBaeFExMlBCSHpoQVhSZ0xMbkFzUHFn?oc=5",
@@ -182,15 +614,6 @@
    "snippet": ""
   },
   {
-   "id": "c4d5f46fdb94",
-   "title": "Infineon and ZuriQ Deepen Partnership to Advance Scalable Quantum Chips",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbmY1TmxVbDNkQWhNWXlBS255UUdRdU1wZWVhZlNXbThhdXprbUlhcVc3Y0lWTjNZUDM4eEVPMl9vMjlIYnQ1VFZ6dlFKdTBkdXB3My1MZWIwRHpmQmd2RjJXdjFfU0RvNGVwLWdnVmtScUp0Tm5JWFFheXQySFBocHBxNGhRQQ?oc=5",
-   "source": "The Quantum Insider",
-   "published": "2026-10-07T14:58+00:00",
-   "topic": "Quantum computing",
-   "snippet": ""
-  },
-  {
    "id": "4a6432941e18",
    "title": "Korea Quantum Computing (KQC) to Go Public on Nasdaq via $80 Million SPAC Merger with Charlton Aria",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOUg3N29EVmlMU0FiNHdkdVVWNlVMNnAza3U0Rm5xUFdELXpSUThHN1liaC00S1cyS3JoWk1yTkx6VTd5bjlzaXJkaXlQT1RaUE9VdDN3SDZhNEQwbUMzUF9CaF92dU9jN3RPVUNlRnVnZHpFUzJvUXQ2dTNSQkZyaWpNc284WngwVW5uSHNnUDg2c2VXVElGU00zWFBKQWFDMWNnY2lVV1NCWUxZQURlMzI5LXpnUFdsTkZQUTVNeXh6WWQ5S2JaeWlyZ3pEQlhGQ3fSAdIBQVVfeXFMTjlINzdvRFZpTFNBYjR3ZHVVVjZVTDZwM2t1NEZucVBXRC16UlE4RzdZYmgtNEtXMktyaFpNck5MelU3eW45c2lyZGl5UE9UWlBPVXQzd0g2YTREMG1DM1BfQmhfdnVPYzd0T1VDZUZ1Z2R6RVMyb1F0NnUzUkJGcmlqTXNvOFp4MFVubkhzZ1A4NnNlV1RJRlNNM1hQSkFhQzFjZ2NpVVdTQllMWUFEZTMyOS16Z1BXbE5GUFE1TXl4ellkOUtiWnlpcmd6REJYRkN3?oc=5",
@@ -213,17 +636,8 @@
    "title": "ML Engineer, AI Engineer, or LLM Engineer: Which Role Actually Builds What in 2026?",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWm1PdHh4QU9jbGd0YmhTNHZRY1p3QlRRZm91UDg3RWRWZG1qUjhhT3pldmt0QUZIVm1tY1QtRDFtS2VWd2FRSjc0RjlWV19idHpTR3hkem9qWVlzUVM5WkJCdFp6UTh0MmFHSVJoZGtwLUk1MlFIWjQxZEFla2pVR2V4YlhLV2lYWXItcHBvbFUtNmpaZlE0TlMza0lsemxMX2dnUE1mMXE?oc=5",
    "source": "KDnuggets",
-   "published": "2026-10-07T14:15+00:00",
+   "published": "2026-10-07T14:18+00:00",
    "topic": "Machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "7c53a15b6d6e",
-   "title": "Regulators Pioneer Fund report: Ambient voice technology in regulatory practice (CQC, 10 September 2026) - Patient Safety Learning",
-   "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxOLUotSS1lNUdrQ29vVWxIZHVHbzVwLTJKYjVZWlpTWE5oRUNTUHlYNGZ1dU1oelM4MlBmbjVlMk9rV204R095b3FkOGxWNFl5YmJZd1FFamFBMzhwTk9yUGN5RzlCRlVDMnZDY2ZYaXNfVXpCcTRmSjNoX21KZDREN3NQb2dTaW5GYzZ4QUZ5aVl4QXlUelBDYUxsSXJmR0l3OHlUUXJqcGtWQzE0ci12dFFiMHY0blJFVzVXUG5ra24yTlJWSk9sTjhCYXU0TjB5UXFxZjlGc3lKa1BzY3o4LVVkZ3JUdkhoSTc0ZDFDZkkyLXNpLWpsRnlQd1luY29Dek5FZDNRVXZrRVV2bUoxSWdZY003TWVVeFlUVUF0aGlLMWNZU1kwM0ZhMENUWkxwQmdob3N2TWZxY3V1bUVkNk9qc0xJdGdTMF8zWENfcEJZbHlRbGRFQXNEQUNEajdQaHpLMEpITjNjN3VPcHFydEk5Q21BZE56b2JQTkM1dlpsVXR4SksyRHp4ODBaWXpsTGhtcFBrQmptRFFBUUJTcmFFUElfV2g0a2w5b245eVNoNjZYRVh6b0Z5WXJrUHpOZGhqYWhR?oc=5",
-   "source": "Patient Safety Learning - the hub",
-   "published": "2026-10-07T14:11+00:00",
-   "topic": "AI",
    "snippet": ""
   },
   {
@@ -308,19 +722,19 @@
    "snippet": ""
   },
   {
-   "id": "f6361f0beab1",
-   "title": "Korea Quantum Computing to go public on Nasdaq via SPAC merger",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaEM3bTI5Snc3ZEJIVVVVRDVJdWNiUHhMRWdjeTN6b2tUdDNXcWpJdlh3dm1LbVR0WUcxeEJ5NDlmQlZsbWVsNFg5bjJ4ZjFhUy1ERlU4dFM5MnRRYVFlRWttb2RIaTZXbldVRENjZmg5TFZJSjZfdURSVG82bjJXMl9oaWR4SEViZXd1ZGNGLUZyTE14ZkxfeTdfVlg?oc=5",
-   "source": "Dealroom",
+   "id": "ad1a637d9fc0",
+   "title": "How IonQ Is Progressing in Quantum Computing and Space Operations",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEw2Q2VfTnprRFJRbndDbHJUbGltQkYyNnJFT0ktbm1oLW4wdWxHNVkyM0hKZ0o3WVdKbG1sR2xQS1lnR3V2U2RDeS1za3JDRGJWQkhqTXNPUHNXRGZvakdraHVCUU1feFdCeFF5dEh6a3RENEVPNTRrdDAydTlaREY5STAwVjFjSWhwbVBXa2RDbEhJUmEwOHF5eWFHd1lnNFBN?oc=5",
+   "source": "Yahoo Finance",
    "published": "2026-10-07T13:18+00:00",
    "topic": "Quantum computing",
    "snippet": ""
   },
   {
-   "id": "ad1a637d9fc0",
-   "title": "How IonQ Is Progressing in Quantum Computing and Space Operations",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEw2Q2VfTnprRFJRbndDbHJUbGltQkYyNnJFT0ktbm1oLW4wdWxHNVkyM0hKZ0o3WVdKbG1sR2xQS1lnR3V2U2RDeS1za3JDRGJWQkhqTXNPUHNXRGZvakdraHVCUU1feFdCeFF5dEh6a3RENEVPNTRrdDAydTlaREY5STAwVjFjSWhwbVBXa2RDbEhJUmEwOHF5eWFHd1lnNFBN?oc=5",
-   "source": "Yahoo Finance",
+   "id": "f6361f0beab1",
+   "title": "Korea Quantum Computing to go public on Nasdaq via SPAC merger",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaEM3bTI5Snc3ZEJIVVVVRDVJdWNiUHhMRWdjeTN6b2tUdDNXcWpJdlh3dm1LbVR0WUcxeEJ5NDlmQlZsbWVsNFg5bjJ4ZjFhUy1ERlU4dFM5MnRRYVFlRWttb2RIaTZXbldVRENjZmg5TFZJSjZfdURSVG82bjJXMl9oaWR4SEViZXd1ZGNGLUZyTE14ZkxfeTdfVlg?oc=5",
+   "source": "Dealroom",
    "published": "2026-10-07T13:18+00:00",
    "topic": "Quantum computing",
    "snippet": ""
@@ -416,6 +830,15 @@
    "snippet": ""
   },
   {
+   "id": "479dd80ac97a",
+   "title": "Artificial Intelligence Usage At Villanova",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RNGVNTFNZVTJBMk9yeUR0NHl6QURVNmtOWjlZejdNVE0zZ3lQTjJ3OEVRa1dHVW5UU3g5cFBfbnB0V1RSaGtjQ2JBaTJLYzVNYWwxRGxDbnlJWUNCRGZQM3VWeGx3aTRnZTZRcFNqdlczUXZuQ3ZrRXhfVQ?oc=5",
+   "source": "The Villanovan",
+   "published": "2026-10-07T12:13+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
    "id": "b34fac054893",
    "title": "Quantum computing shortcut makes particle collisions easier to simulate",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFAtSFlIOWpSdTRZVkh3UnBLWVFfa2hCa3pjc1Azd1VIeGw4aE5NU2ZqRThOdG5lS3pVbFhtZlFnMG9oY05iTGVXSDFVdDNfSEVnVGtodkVEOGZVX255YjN5cTQ1VnpmR2dYTUdNMEhKQ0E4bWdBNmp4TE4ybjFLdkRkUlE?oc=5",
@@ -425,21 +848,21 @@
    "snippet": ""
   },
   {
-   "id": "9611b5c2b6b4",
-   "title": "India must be part of AI safety regulation talks, says IndiaAI Mission COO",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQampzcllLWFZHeUFWU3BNZGJyVV8wUkIyMTFjUjY0RjZqc29Ca0NXdmhlSlU0VDJodWhkOXh3US1iTERIQS1uY1lQSGRmR21EYm9aeWIwSUZGM0tsdXZidldORklOT25oeGRaY01lbFZrWU9BSGlvMEI1QVZtQnFhaXpFYUN4WDkxUUw1b0duaXBTTmtQamNDSTUwaWdzQUJ1bUlTaHVwdTBrVFJ5SUJFczhOQmlKeDhtTHhYVENyeWxaOFZtUlMycVFnYWQ5dFN0dzBIZ0FCVktkTTJGQV8yRUNPbEtZMUJsWVRTRE9hTjhzekR50gH6AUFVX3lxTE02bWFHR2tUTnl6cGt0TlRVS3VrZWZzSFcyeXdGT0NmUW83THhNLWJlRnFnMWxnZXlOenYzcUo1TlN5WlRQdkhwZ3poczg5QWxBNTAzLU81YkVZbG90ejhfYzBxT0E4SVFadndnaS0zbnpuMjFmWGp6UTU2UFpkbTFhQXJ3UFU3eDZFVXV6WFFPenYtZERvUzRJYVlDMEhyWVpURVdzeGFObGlTOE0yS1ZXMWpka2RuVVJPTmpJdFZqcHN1eUhYNllyRlhaU01BMWNQeVB6X24tMWFfb0FQLTJhZ0lPcnlndHZsTnd3akYtbC1PYXZlNEZzV0E?oc=5",
-   "source": "Business Standard",
-   "published": "2026-10-07T12:00+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
    "id": "a678a1967830",
    "title": "Adding Low-Fidelity Data to ML Training Sets Could Yield Better Process Models",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdVNCTFp1RFBYNTRVY19PVU5QcWxNckp0MmcwX19lUWVNVk4wRjBDWFpQY3NqcjBFU2tKQ2VORC1tR3VFaTA3WXQ4cjI4Zk9LZUszNWU2QkF4QXAyYkV5X1dWcTVqdm5PZk95SHQ3R0N2RXE1X0E5bnY3Vy0tWlU0VE1FaVZrUFU0RE5Xb0d4THpLOTA3cU1DZTZLLUxSZTZMRS1FaHZ4RzF3Ym9rM0UzR294eEUzX2d4eHdybVltUjRNTmxiQXc?oc=5",
    "source": "Genetic Engineering and Biotechnology News",
    "published": "2026-10-07T12:00+00:00",
    "topic": "Machine learning",
+   "snippet": ""
+  },
+  {
+   "id": "9611b5c2b6b4",
+   "title": "India must be part of AI safety regulation talks, says IndiaAI Mission COO",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQampzcllLWFZHeUFWU3BNZGJyVV8wUkIyMTFjUjY0RjZqc29Ca0NXdmhlSlU0VDJodWhkOXh3US1iTERIQS1uY1lQSGRmR21EYm9aeWIwSUZGM0tsdXZidldORklOT25oeGRaY01lbFZrWU9BSGlvMEI1QVZtQnFhaXpFYUN4WDkxUUw1b0duaXBTTmtQamNDSTUwaWdzQUJ1bUlTaHVwdTBrVFJ5SUJFczhOQmlKeDhtTHhYVENyeWxaOFZtUlMycVFnYWQ5dFN0dzBIZ0FCVktkTTJGQV8yRUNPbEtZMUJsWVRTRE9hTjhzekR50gH6AUFVX3lxTE02bWFHR2tUTnl6cGt0TlRVS3VrZWZzSFcyeXdGT0NmUW83THhNLWJlRnFnMWxnZXlOenYzcUo1TlN5WlRQdkhwZ3poczg5QWxBNTAzLU81YkVZbG90ejhfYzBxT0E4SVFadndnaS0zbnpuMjFmWGp6UTU2UFpkbTFhQXJ3UFU3eDZFVXV6WFFPenYtZERvUzRJYVlDMEhyWVpURVdzeGFObGlTOE0yS1ZXMWpka2RuVVJPTmpJdFZqcHN1eUhYNllyRlhaU01BMWNQeVB6X24tMWFfb0FQLTJhZ0lPcnlndHZsTnd3akYtbC1PYXZlNEZzV0E?oc=5",
+   "source": "Business Standard",
+   "published": "2026-10-07T12:00+00:00",
+   "topic": "AI",
    "snippet": ""
   },
   {
@@ -533,6 +956,15 @@
    "snippet": ""
   },
   {
+   "id": "c96ba2b01713",
+   "title": "Event Addressing AI For Small Businesses",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVlJODBvcUxFVTVRc3ZJMFFXZkN5Ui0xWU5kMWRMUzNOMHo2dU1HNmRQa1o4c3hEUVB1MVhTWjItbGdQeTdxZlJ6NXZOTHgzRFEzV1NNNy1ucEVPcU1SQ3ZZTjBkT2Z2c1BTcnhfUk9NVXZVbFBsMEFlOVNwVGJRbTNPUTBBc3hyejBKNXAwQQ?oc=5",
+   "source": "www.thenews-gazette.com",
+   "published": "2026-10-07T10:00+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
    "id": "69b30a2eba19",
    "title": "Information Workers Launches Enterprise AI Governance Practice Across US Markets",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdGNfajdnNXp1dV9CbDAwUFhiUlI4V2hSRlRwUjBQX3ZHaTNDdGFQXzZDQ21hZS1feHpXSWRNV1BqUHlWZk0xeXJQRVdTSVRHdWVPdzA4R0tiRGdMeHB2cDBrblM3UGg2bnVpXzVqN21mSFpMUWtweTdQSF9PRnVBX29FVzJrLUdCQTc3czBFNzh4dkZxcVhGel93a0R0UG9kNTNsbWx2ckxENTNOSm5rbnl6WFcyb3VXcnMybE5IZkw1Ty1xOHlEY1hDem1VbWc?oc=5",
@@ -596,12 +1028,12 @@
    "snippet": ""
   },
   {
-   "id": "293f85b46953",
+   "id": "49ef89a4d593",
    "title": "Meet Amin: Applying artificial intelligence to complex problems in digital media, finance and enterprise anal",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMDBqZkxPWFBtRE1Sc2pFUVUxSXYwZmZXdVZtdXNxYVhFSWlXRXZEd3lQRHRLSVJoMUgycG5HeXV0cUI4V1BRd3dWZEZGSTd3eXJPM2UtZmlSVUJvZUtzYWJDWHhzM2FlSHRzYVkzSlhaUGM5cmNpcmZsejhteTFSZ1pUcHdRR003MW9HemdvN0JXaWhoMlpZUzFVN3FFMFFRb0NCbUVtbTBGa3lUcjVzU0ZfaTFkTXVpTFJtZ29VRjhpQWxoWFdTczFjb0JyV0Yya0l1b0FWb19JcGlMNXN0ZzNQc9IB6AFBVV95cUxNczBYWkdUQ1UzZEdMYW5RY1VMem83b0JlUDFPbWgxR19WN2lsbHgzY0NkQ3BacUhXR3pNVjY1T0JIWWczZWRPcUU2WGRndnAzd3k3cFN1V1VVWW8zc2dydzFRTGZHMk9iaTlaOEpiYWRqRk8yX3Rvak9HbE5yZnY3RlBJV0p4MWtIRjlLZk03NmNpSEJkWHR4Tktwai0wTUgySmV6LWRGSWhPVW9aWTZsZlRLSk1BQklwWV9ZZUI2U25RdUtSOWJKRXhDenIyNDVkaE5aLTRXcWlRNF9PU0cyNWVsY19zODh5?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNczBYWkdUQ1UzZEdMYW5RY1VMem83b0JlUDFPbWgxR19WN2lsbHgzY0NkQ3BacUhXR3pNVjY1T0JIWWczZWRPcUU2WGRndnAzd3k3cFN1V1VVWW8zc2dydzFRTGZHMk9iaTlaOEpiYWRqRk8yX3Rvak9HbE5yZnY3RlBJV0p4MWtIRjlLZk03NmNpSEJkWHR4Tktwai0wTUgySmV6LWRGSWhPVW9aWTZsZlRLSk1BQklwWV9ZZUI2U25RdUtSOWJKRXhDenIyNDVkaE5aLTRXcWlRNF9PU0cyNWVsY19zODh50gHoAUFVX3lxTE1zMFhaR1RDVTNkR0xhblFjVUx6bzdvQmVQMU9taDFHX1Y3aWxseDNjQ2RDcFpxSFdHek1WNjVPQkhZZzNlZE9xRTZYZGd2cDN3eTdwU3VXVVVZbzNzZ3J3MVFMZkcyT2JpOVo4SmJhZGpGTzJfdG9qT0dsTnJmdjdGUElXSngxa0hGOUtmTTc2Y2lIQmRYdHhOS3BqLTBNSDJKZXotZEZJaE9Vb1pZNmxmVEtKTUFCSXBZX1llQjZTblF1S1I5YkpFeEN6cjI0NWRoTlotNFdxaVE0X09TRzI1ZWxjX3M4OHk?oc=5",
    "source": "India.com",
    "published": "2026-10-07T07:47+00:00",
-   "topic": "AI",
+   "topic": "Machine learning",
    "snippet": ""
   },
   {
@@ -650,18 +1082,18 @@
    "snippet": ""
   },
   {
-   "id": "f905ca24e27b",
-   "title": "OpenAI Releases 722 Math Manuscripts From Hidden Model",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55Q08tYWZDdE9Ra1JvWGFxNXY2aG1USUdKN1FhZ2FyU1RiaXRvYzdiWnBaQVR6Y0p3UkxYMjZJTm0wN1NyYjVwQ2ZPVllkTTEzajhFaDJkZHNndklEdlJEanY4TkRQNG42dWtEbVQ5QnhOUFJqb2c?oc=5",
+   "id": "b75ac2ea5324",
+   "title": "Tencent Hy4 Preview: 770B Model vs GLM-5.3, Kimi K3",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42NGpJN1F6MzZJTmdVeUd3ZDM2LWRTckNhLUpmQnl6SjIxcUhBVXhRdHp5eXAzM0ZWN0JxUnM2UlhBeVhxeXZwakVGRlhDTFBNVEh5c0R1OVI1cEQxSVZwLWNTTkdXZHVYMDlBSTMtM0Q?oc=5",
    "source": "shattered.io",
    "published": "2026-10-07T05:53+00:00",
    "topic": "Machine learning",
    "snippet": ""
   },
   {
-   "id": "b75ac2ea5324",
-   "title": "Tencent Hy4 Preview: 770B Model vs GLM-5.3, Kimi K3",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42NGpJN1F6MzZJTmdVeUd3ZDM2LWRTckNhLUpmQnl6SjIxcUhBVXhRdHp5eXAzM0ZWN0JxUnM2UlhBeVhxeXZwakVGRlhDTFBNVEh5c0R1OVI1cEQxSVZwLWNTTkdXZHVYMDlBSTMtM0Q?oc=5",
+   "id": "f905ca24e27b",
+   "title": "OpenAI Releases 722 Math Manuscripts From Hidden Model",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55Q08tYWZDdE9Ra1JvWGFxNXY2aG1USUdKN1FhZ2FyU1RiaXRvYzdiWnBaQVR6Y0p3UkxYMjZJTm0wN1NyYjVwQ2ZPVllkTTEzajhFaDJkZHNndklEdlJEanY4TkRQNG42dWtEbVQ5QnhOUFJqb2c?oc=5",
    "source": "shattered.io",
    "published": "2026-10-07T05:53+00:00",
    "topic": "Machine learning",
@@ -866,6 +1298,15 @@
    "snippet": ""
   },
   {
+   "id": "f89fe7fab9f8",
+   "title": "Companies cutting jobs as investments shift toward AI",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmowdG1sVXFFOTdIcEZRY1l2OGcyUHdKZHZ4VlN3ZWJKX0dKbzlUQ29HNFNzc0hFTHRtNDFmQVZfOHg1aDlDbXFCcHM0RVJvSWcxVEVKWGZXSG5obnh3OGF1M0xfYWZYMDdmcDNTTzFoYkZvekdURU9ZS3hlbWlJeGc5UDhYOEMweVlwLVhrMEFka0FySzZWRE90eXNhZHFWV1pxdXVBQzB5d2xpRXc?oc=5",
+   "source": "Reuters",
+   "published": "2026-10-06T22:35+00:00",
+   "topic": "AI",
+   "snippet": ""
+  },
+  {
    "id": "00f53b2129bc",
    "title": "QuantumGate and NEC GCC Partner to Deploy Sovereign Post-Quantum Cybersecurity Across UAE Critical Infrastructure",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTGhfMjA2ZUxEbXhvd044Q2tzQnlqR1FYUWc2SEMybGxjYlAtTGtxbldtT3dNSXJUMUNPanRscWY1WEJIZGxEOERrU1hpUnFLU3dYSHFYQnRXTUpkU3lha0UwTnBfUVM1RFQwSU5IVHR0ODMtaWpRTTBMTUprZ0hoaFZrRWRwTlJ5YmhlSWN4WmhqeEhEMUNfQnFkZHQ3cU9xZ2ZNLUFGU0J0R3RPSjRlOWR5UHZZR2ZwVUtkUGVHSkljQUx4REVtUmdwVW9lQWdrNjkzekVrSGM1SDM2R3FqOFE3WdIB6AFBVV95cUxOaXNpRU0wS2hRNWt5NkFkN1ZFdGRaeEJzdlF5ZWVWaHlYd3B0NXIxSFhaMG1abzMtSHJJbTE2cEtrem1BVHBhcG5oeHl6QTJ6Q3k3dWxNdTkzOHJ0RGpJUjM0ZGtPV0VKc1JVMi1LM1lUNmVCc3NLTTFFRDBRZEVpRklwRjZubkdiUmMwOV9aRHV6MkNkai1LSlh4LVh6ZFgxdGg3SjF2ZXdZaWR2c2l3OEFrU2k4RzhBVEkzXzhYTG1zUkxYT1c5VldVSjZ0dUZlemYyUU80MUlMXzVrNWprRUFQalBFY24y?oc=5",
@@ -881,6 +1322,15 @@
    "source": "Quantum Computing Report",
    "published": "2026-10-06T22:05+00:00",
    "topic": "Quantum security",
+   "snippet": ""
+  },
+  {
+   "id": "88e85d87339e",
+   "title": "Experts hope new AI czar’s leadership can move the needle on regulation",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVlZneXZRRE82RTBYM1JmWGVUdEF2R3pCOFhhTWZXR1RjbUpZb0k1d1RlQ0tfX1AxM2I2aWF3aGdFNHNranNlTF9BS1BlRERuSG5TNTZhRF9YV29HZUVVUzlXczFIdTR3RDdvRGVBU01SNDA1THI1b2J0bFdBNFlqbHNBTzcwR3NNbF9HRFVEVXpwX2U3ZlU2SzN4Y2YzaW1ubXNZT1pVUWszamlWNHQ2LS10RlZuV3JXS0FBM281SG9tSFpyY1E?oc=5",
+   "source": "Nextgov/FCW",
+   "published": "2026-10-06T21:57+00:00",
+   "topic": "AI",
    "snippet": ""
   },
   {
@@ -998,6 +1448,15 @@
    "source": "WCJB | TV20",
    "published": "2026-10-06T19:15+00:00",
    "topic": "Quantum computing",
+   "snippet": ""
+  },
+  {
+   "id": "6f4239c13d2c",
+   "title": "Fire Chiefs gather at 2026 NFPA Urban Fire Forum to address accelerating change in emergency services",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZjJ5cWMxcWlJQzVLY2dQcDNmMk9RYmJDMjc3Z2pJTEM4WTY0X25KTUZLZ2JYLXdtRU1ndTdrakQ0bjdZTXFaVFZGcHg5Vy0xSk1uV0Y5cVNfRm5SdVdlRGtRSU05NUlBcF9rVHNtaDdzSDVLMTZSZGdqc0ktalZjU1ZGa0Y4bThSRHBwaDVSSEhGeWpNOGV6VDhxUFRleG9ZXzN6akpqM19iUl91TEt3YmJfSGZXVl9qU0hhN2dhYWNuYU40SE1lSGtlSFFaUWJOSkJ6UTU0SWMtOGxqcVNiODlpdDJNRlp1?oc=5",
+   "source": "National Fire Protection Association (NFPA)",
+   "published": "2026-10-06T19:00+00:00",
+   "topic": "AI",
    "snippet": ""
   },
   {
@@ -1179,6 +1638,15 @@
    "published": "2026-10-06T16:18+00:00",
    "topic": "Quantum computing",
    "snippet": "Insider Brief PRESS RELEASE — Infleqtion (NYSE: INFQ), a global leader in quantum computing and quantum sensing powered by neutral atom technology, in collaboration with Honeywell Aerospace and Distinguished Professor Daniel J. Blumenthal of UC Santa Barbara (UCSB), announced..."
+  },
+  {
+   "id": "47d9e4a9b62d",
+   "title": "Super Intelligence",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
+   "source": "NASA (.gov)",
+   "published": "2026-10-06T16:15+00:00",
+   "topic": "AI",
+   "snippet": ""
   },
   {
    "id": "f4c7de6a0bb7",
@@ -2232,477 +2700,369 @@
    "published": "2026-10-05T13:06+00:00",
    "topic": "Quantum computing",
    "snippet": ""
-  },
-  {
-   "id": "21194aaa717f",
-   "title": "AIDAQ 2026: AI is Now a staple of The Quantum story",
-   "link": "https://thequantuminsider.com/2026/10/05/ai-part-quantum-story/",
-   "source": "The Quantum Insider",
-   "published": "2026-10-05T13:01+00:00",
-   "topic": "Quantum computing",
-   "snippet": "The Quantum Insider joined more than 2,500 participants in Berlin for Bitkom’s AI, Data & Quantum Summit, where AI kept turning up inside quantum. Berlin became the meeting point for Europe’s AI and quantum communities on 22 and 23 September, when Bitkom’s AI, Data & Quantum..."
-  },
-  {
-   "id": "1d24b1d35004",
-   "title": "D-Wave and University of Arkansas Launch Quantum Supply Chain Initiative",
-   "link": "https://thequantuminsider.com/2026/10/05/d-wave-university-arkansas-quantum-supply-chain-initiative/",
-   "source": "The Quantum Insider",
-   "published": "2026-10-05T12:53+00:00",
-   "topic": "Quantum computing",
-   "snippet": "Insider Brief PRESS RELEASE — D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave”), the only dual-platform quantum computing company providing annealing and gate-model systems, software and services, and the Supply Chain Management Research Center in the Sam M. Walton College of..."
-  },
-  {
-   "id": "b0f5a7072d76",
-   "title": "AI whistleblowers join Google, Meta, OpenAI at NYC hearing",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0tPVV8tR0FaQmI5bE5NS3J2S0RmanN1OHNkRDZRVU8wSXhmWnJoaVFiSW01WWc4NHZ2R1FMWVk5NU9abkJEVDNmOUdESVNhY2oxM1dfY01hTFRzZ2M0NDFPWVhVQlVkN0RfX1dvc1VMNS1FNHpUWk5rRE9PU2IyNWhJYjhGdE15cXJBWDBuMjRPQlRBOEpV0gGXAUFVX3lxTE5jS09VXy1HQVpCYjlsTk1LcnZLRGZqc3U4c2RENlFVTzBJeGZacmhpUWJJbTVZZzg0dnZHUUxZWTk1T1puQkRUM2Y5R0RJU2FjajEzV19jTWFMVHNnYzQ0MU9ZWFVCVWQ3RF9fV29zVUw1LUU0elRaTmtET09TYjI1aEliOEZ0TXlxckFYMG4yNE9CVEE4SlU?oc=5",
-   "source": "ABC11 News",
-   "published": "2026-10-05T12:50+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "93236de8b477",
-   "title": "Germany Advances Key Consortia in €640 Million ($717.2 Million USD) Fault-Tolerant Quantum Computing Competition",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdWk3eVJzU0ZlLU9FcGlRQTZpUTFUN2RfaF93eHhFc3BrY0E2VEQyQUdxdzZONHZHRDV0VW1MdU9yRnBKNGhnTVoxaEotcFFMOFlEWHo3cTdMT2FaVUxPcnJrMU1uaUY0cG1aT3Q0UFV5TmRlQTNtTUZiRGVOMlBBUHlSWTl5UjcxVlgwMVJubUwwWEJKVlQ2M3FvT0NjZzZzb3VQUDVpVEduTUViMjZ5NHNMTVRka3IyNHR4OWhOSVY2MUV5U1gyYzJKM3ZLMGtidDVFZWdwMmdFSFNkNEHSAeMBQVVfeXFMTjNVMGJuSGdIZWNEZFpwVVI4WlYtWHE5aUs1S0NvcWIya2RuMFI4LU1CbDhHX2xRVXNyakE2U1dNWWppSzRyTEl2QldPOVFodUxuMm9iSVQ5S0I5dEg4VXlYcXpHdmF2cF82MVNNM3FSclRhZ1JtUHNEbEp4YlVGbUNPbzIza3RnUVZLelRPcWJraWJiYnF4YkhoNW9rR0FnYUNzUkpBTV9GV19fa3J2QVpUcnBZMTF4ZE03WEFsM2t1UlhDWXZhc3hoTUpucVlJT1BRc01Md01YVmc2aEJ1eE93U1E?oc=5",
-   "source": "Quantum Computing Report",
-   "published": "2026-10-05T12:46+00:00",
-   "topic": "Quantum computing",
-   "snippet": ""
-  },
-  {
-   "id": "d382ac5a902d",
-   "title": "AI Model Brings Transparency to the Chaotic World of Industrial Process Monitoring",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVI4bnBMZHBKTDFkOHdabHNDbTNBbC1WamduS3g4RFU4TGw0QjhhV2p5dFVuRG9pV1MzZjZhSk9NV0hPczJ4aWIyRmh5WWZUQXBnc3ZPVHpQb3czdm1QbGNxUnE5S3NxOWQ5SWtJdUM1RFVDZWdsNEVXc3VKdEdfbTZlMkFTbF9PRWtLdHdKZ0F2b3hEQUN2R0hWbFNMa3BlQkJpZ0xfb2RxbDg?oc=5",
-   "source": "Bioengineer.org",
-   "published": "2026-10-05T12:44+00:00",
-   "topic": "Machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "a862942fc0fb",
-   "title": "Machine learning and infrared spectroscopy accurately spot early Parkinson’s biomarkers in fruit flies",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORTdFY2FwRUNmSDhiVVcxZ2VGR3JjVFBFT2xRakJvUFZKVVZ2LWZsMXRZVEV1MHZUd0NJNWdydlpjOVNUVEV0dnR5U0ljbV9QbV9oU0xocV9fNEhpRFBsUHFneWtGcXhrUXlRMjVNVTJtcU1fMFRtck9Ia1VVMmZwRktfVmNYZkhpZTZtZ3BMVGJ0aHpfbWZyUmlhWVNOSEVNRDBRRTMtMm5SQW40TXF1UnV5LWZHMWdqdGdWS1FzX0tyWGJXYkFNZjJuZjZ0QQ?oc=5",
-   "source": "Research Matters",
-   "published": "2026-10-05T12:33+00:00",
-   "topic": "Machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "28ffa0b1196b",
-   "title": "WISeKey positions WISeID for AI agent identity and post-quantum security",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY3RKTXFzQVFSUll1U0ZMSXVEVlhqMjhHMFZFSmRQc2hORnZNVDJfYlZrYmVkYXJPT3RGcUdGRERRZVhURGZwZ21DYjFSa0RyTlo3MXBhcWlDVmlLaWxBWE9lUTNGZGJnZ2pnalItRXFqeFQ0NzV2LXJsMzdiR0dNOThTR2I0cjlFRi1NLWxTbDFDUjQ4WjNGaTRUN201dTZEaVJjUzhDM0pwRXhrZUloNkk2NXhRdzVXSGw4ZXZESVlFQkFVNE9uWmxR?oc=5",
-   "source": "scanx.trade",
-   "published": "2026-10-05T12:33+00:00",
-   "topic": "Quantum security",
-   "snippet": ""
-  },
-  {
-   "id": "048332298353",
-   "title": "SAIC Acquires Information Security Corporation, Expanding",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNczNfaHdyNkExQVp0WF80RUlSZWR3amE2bUJkTDRXQ1pzVVBlT2NIMHQ2VUR4b1NYY0hGX1BhSlJHaGhEZ29VZjdtcG44SDk0TVlMRTZ0eVg4RWF0RVdrMVZyZXhoYkRLcG9CdDFvRGdLRXZOczl6Y0FRLVVicTNBS185V25Ea3Y4MDhxUHdyOUkwclBfYUVPTzRBajZmcHB0X21FR1kwSTg4N0dVbkxLN2pkLUtjNHRkajdDMy10SDdETFJES1VJSGxVZnIwbVpIclpOeHNhY0NjLVdobkxzNW51ZF90dUNPdzFpT01rc3pJOWlvbXRrRTBzcThmaUhTd3ZzUXNxTlZkaTFRbDRQejRrSVN2dFM2Z0pj?oc=5",
-   "source": "GlobeNewswire",
-   "published": "2026-10-05T12:30+00:00",
-   "topic": "Quantum security",
-   "snippet": ""
-  },
-  {
-   "id": "97efc046cc19",
-   "title": "The AI Lab Says AI Cut the Quantum Timeline From 20 Years to 2. Its Post-Quantum TIP Protocol Is Available Now",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQnFUTm9RM3FhSzBWLWprRkpIZUxpR0ZBZ1p4WFJ0MHVBOW91UmNyeGF5anBPaTROYXhJenUyN0gzaUhSR1FrRTJxX1B0TDNNLWxmeEFGUkhsOVpETTFmdHotYWNQSkhQajFxTFJaMTg5Q1ZKVl9vb3RvOE9aQmRWM29zTnFkdXhZZ0RrV2hTQ3JVbjFac1RZQXRoclBfYUZkeXNCWTZlcEpSMHZLQlhRbWpLMjZJT1hoNURzSVNGeEs0QlVKd0F5UTFUWG54bVBZaTFEREhPQzZRTUd6TU5NZlpzOWl4WE5kUFVyWg?oc=5",
-   "source": "EIN Presswire",
-   "published": "2026-10-05T12:00+00:00",
-   "topic": "Quantum security",
-   "snippet": ""
-  },
-  {
-   "id": "a8e8a5fb1e51",
-   "title": "Quantinuum signs memorandum with University of Australia to boost quantum",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS0FBVklfVnpxSGUzcWF5M3pRaXJ0YlVOWlhpc1RPUzNnY1VLdVJKQnhRVHBvMngtNkdCX0k1eEJoM1BTR0xMclNkYUhYWWxrWnBEbG1nRXpZOEYyZUp6c29PSkJxT05HZ3pGLTR0RWJTZUJ1UDFMbWhLczZjakJJUFc3SG9SaWh1aHVGWHQ2MlA1N1FMME1qdVA4WG9pVVJXQkpyV180YTJQZlNRaEw3NllmNVB6TzR3ZDRPazNCQ3VOY2k2SlJEVVpwbWljMHZyZ3c?oc=5",
-   "source": "TradingView",
-   "published": "2026-10-05T11:33+00:00",
-   "topic": "Quantum AI",
-   "snippet": ""
-  },
-  {
-   "id": "c1b6374074a8",
-   "title": "Trump Establishes Federal Task Force on Artificial Intelligence",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NTjdpNTAzWWZoNHZVLUpwNUdmX21CUnJJMzhoVnpaVGU1TnNVWTBhdWJoX0NDei1EVFBlWXd3WDdXdjNJV3ZBb3pIeU5rTE9MMGh3QzR3ZkQ?oc=5",
-   "source": "Israel Defense",
-   "published": "2026-10-05T11:29+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "b4544d57c650",
-   "title": "The real AI budget question: Where should we spend more?",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQkM1enROS2E1ajhvRU5LR3l5bUl5VjFaUnBKdmxZUWNEajlrVzY1bFBPWjFHVHgwQklRUmZiSE1TeGxtXzRlOHhaemhUTVpfM1AwVjAwdFNORHlzdGNPLWloaXNxUVVudmM0VzJLNm1adm54R1hvSWdOcXhRN3lLbV84cFBlRlBHNnM4TWFiSDJGaDZYNG1BSHh1NA?oc=5",
-   "source": "cio.com",
-   "published": "2026-10-05T11:15+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "ea77a002ce02",
-   "title": "DigiCert's PKI Modernization Partner Network | Security News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX3FHb1hsbDlnWE1aM2xndnJGMmFRVnVCV3NFcFhPbURkTFJUSW9XMWhVcWRWTE1neDNobHVOTm9iQy1qbGc1ejBzQm9wY0x6YTl2NW1aMGVlaDRFWUR2WmZIY09DMHlXNmxEanI2MjNUTUJEcndCM0pDUEVwcTNDYUxwZ0lHN2ItV0dTc28wVWdCOU5Oc3RRNWc3cUVLSGlTbGlrYjdkX3lwQzAzSk91Tjlmaw?oc=5",
-   "source": "SecurityInformed.com",
-   "published": "2026-10-05T11:03+00:00",
-   "topic": "Quantum security",
-   "snippet": ""
-  },
-  {
-   "id": "509b23e878eb",
-   "title": "Our Two Minds: The Hidden Axes of Personality found via Machine Learning",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkFlLXpRSGJCMzN3Z3NpWnFRWDZPODRoM2N6cUxSdmZpTmI2VUw2dWhQRWNtYzYyTlJBYUY0OWdnOEFrWDU2aFJmZ200bVRzZmtGUHNDSThnVUxoLXliXzVLT3ZNN1p6NEFNR3Q2c2pkR2I2c3gyRkEzS3ludjcxWGYwT01zNGdxS210b2ZkVU5FcW40QTFrSzBNR0c?oc=5",
-   "source": "Advanced Science News",
-   "published": "2026-10-05T10:42+00:00",
-   "topic": "Machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "f555158c3cf6",
-   "title": "DigiCert ONE: Quantum-safe cryptography and PKI",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2VXSDRUcEh6MEMzeHdLSkkyOHR6eENnc1lmcnliaWM4UEFVNjFXTExyRTNYVUd1WU9OM2NzUmN2RDNjNHI3TkdJY3g3azNkYUcyckhGU1pXenVVSld0ZnZZeE5HSzhwNzJ1WG5WSHFjOGVpemREbk5QSHFrV1JudkpDaG16ZDg3aEhVRVBiaGZJdnNKYTFBck4wdTl0ZzRlalJZbFZsS0o2Tkk?oc=5",
-   "source": "SourceSecurity.com",
-   "published": "2026-10-05T10:39+00:00",
-   "topic": "Quantum security",
-   "snippet": ""
-  },
-  {
-   "id": "42953c683281",
-   "title": "F13 emerges with USD $5 million to fix AI vector graphics",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSmpBbWpfaUVWOUJtY1JxN0I3RnFYWnNsRU1GV1lxd3BPSWZEX0Rfa3ZGdHhuZktLTWZIX1djYjNpME5MdEF0ZklWZFh0a1Qtd25BY1NTMFRHTHZndXdTQkIwR1JGblI4SWhMdmNkRUVTajJRZ3hwMmpra3luUUZjR3Y4bDJNaEhWZWpkcg?oc=5",
-   "source": "IT Brief UK",
-   "published": "2026-10-05T10:28+00:00",
-   "topic": "Machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "b256dd5f7d0f",
-   "title": "When AI learns human bias",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBUWJnWi1KYmlaZHdfRmlkeEFsZW1KSTE0SmFOZE9MYTczQ3NUT2hRUmZCcGw1NTExU2hqT0pNeFByQmg3WW93QW9rRktZbXZqRzhsRXNIU1BUYnZwZ2J3YldDN0FJdlVZaWZrZ0xFeTA?oc=5",
-   "source": "Arizona State University (ASU)",
-   "published": "2026-10-05T10:22+00:00",
-   "topic": "Machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "870582b918ab",
-   "title": "India Tests 5.56 km Quantum Channel with PQC",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96bHZkVGkxVGVqb1lDaFZDd1o5UlV2R1FzY3FfcDBBWWVhcnJKYktVU1dKOGdhSEZIbEJ4WEpvT0M5c2J0QndwSEQ5a2hWYXZRQzRMMmVNUGtLMWh0N0R6WU82bFVMY0d5MEZlZXl4cGhYWTdsMnZr?oc=5",
-   "source": "forklog.com",
-   "published": "2026-10-05T10:20+00:00",
-   "topic": "Quantum security",
-   "snippet": ""
-  },
-  {
-   "id": "e3a2d1be8944",
-   "title": "Trump chooses top spy boss to run new AI taskforce",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiajN5MEpXZFFWUFJuUFlhNDJLV29waVA1OGlrVU1jZVdtRU1reERmdlRTSUprbWNGQ21EaHFXdFhrdWlMMzZaXy01ZmRBQWo5ekZiRlZiMmNtaTA?oc=5",
-   "source": "BBC",
-   "published": "2026-10-05T10:03+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "be270d3ca4a7",
-   "title": "Airbus Demonstrates Quantum-Secure Communications in Live Tactical Operations",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZFZMMmtTNTNDRFpyS2pNanBDV2ZURkVMS2s3TmZNS21WOXJUTEh1MHdsbDQwNTJMZnVQZE93RzNwLXNzWjlLbzFLQ0xXUUQtaHZ6X0lPcjJ6NEZlQS1FWTEwNnhGVlV3LVVfSFN6LVdCMVNGWTQxeFBlbFYzanZEcFo4Uk4tUGJjZUx6RGkxZlA1ZlBnOF9GQzA2RmlnSUY2U3NSVXRoTnFWaDhCa1F5T1dUbkRVV25RVnRwMy0yMmlyS1QtcVVwWk5sTXhMQ2RvbEV4ZA?oc=5",
-   "source": "The Critical Communications Review",
-   "published": "2026-10-05T09:02+00:00",
-   "topic": "Quantum security",
-   "snippet": ""
-  },
-  {
-   "id": "c9c613aa911c",
-   "title": "AI learns to predict what scientists don’t understand: How is machine learning changing science and medicine? Artem Oganov explains",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9nZVQ5VmFjd0pZdDJKaVQ2T1M2d05HM3BJLVplZldvRl9RNWJOR3AxQ2FlQzB3SmNFWlJ6czY4X3ZtdkZERjV5WA?oc=5",
-   "source": "NEWS.am TECH",
-   "published": "2026-10-05T08:30+00:00",
-   "topic": "Machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "56800d3745d3",
-   "title": "New AI Framework Slashes Labeling Costs in Shifting, Imbalanced Data Streams",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOejBpSlFIRk1Sd0hoUHkwbkhOMWdCdXhvRjhxOEFtcjhwYTJXV2w2cXNHTjJIM1E5Y3BCLTZJUFpQUzh3b3ZDaGtyem9RVTFvcktSQzVOaXhmZmtySWRaYXMyWklKcFMzcTk5Z2QxSlpfYnpPR05FakdqMF93R0NzMng0dFFZQ1U2cWRhb0k5NWxIUTAyTHpoMHNZQ0tWX0xlV2c?oc=5",
-   "source": "Bioengineer.org",
-   "published": "2026-10-05T08:29+00:00",
-   "topic": "Machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "ffaf369b3d0a",
-   "title": "The US and China will have a red phone for AI emergencies, while Europe is left to watch",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2l5SU92cGZ3Y2NybXNpZkthRWVId2FRUXJ4ZjhTQnU4bXI3Z0lfNWZobUF3Zzl5Q2dPc3lxSmdvTGRhamdjX1FmcTZIaGszZDVkYXZlMk94cnRXTHl6c1RTR0xvVV9JYzdrWm8zZFRfR2kwcWU2RTZFVV80bUF5bXEyQkR2TlNEZGl0dnpYNXBkWUVSN3pjb2FUN0oyNkVsUGI4NnlUZkdNZw?oc=5",
-   "source": "Bruegel",
-   "published": "2026-10-05T08:28+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "09dfcea5cbad",
-   "title": "President Donald Trump announces creation of 'Super Intelligence Force' AI task force - ABC News",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3dJODJ0VnUzb3h1TEFnMjNya292VzlNODgyUzZHYkR1eVJ1VE9QdHRmM1A5VGhNcjR4ZUw5bnBCQzdOaXRfd0FEbEYwNVJmU2NlbjRFVnVLZGJQYkpVRUYxSENsT0lKQVhtMUZ1TkVhaWI5MXRSSmFSQTM5dFo4NDdYaFVtb0V2X3QtcmxwaXhTaUtRT2pXUVRaZUI0a0xObnhmdlB5Q0hNTVViMDEzWWJBSEfSAboBQVVfeXFMTWNUMjlJXzBRWF9MbENnMkFVWVV2dS1ld2Y4ZV9hXzRCTFNaM0Zhdk5uZWt3ekMxMDZpTTdMazl6WEF6LW1IYzhDLTU5MkJWX29GRHVqS0xYVlhjTmFrVE9JYmx1OFBrUlBnVW1TS3UtMk1GLU9mY1c1NnlnZHRNLUhNUVdobzNBckRLVTF0ZHlBdk9LVmJXWUY4Y1BaUWpTb3B1OGNQdlRJb2ZhMGlyaXc0YkVGSlduaDN3?oc=5",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "published": "2026-10-05T08:26+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "25671b202c89",
-   "title": "SQMS Study Links Qubit Performance to Material and Fabrication Features",
-   "link": "https://thequantuminsider.com/2026/10/05/sqms-qubit-performance-material-fabrication-features/",
-   "source": "The Quantum Insider",
-   "published": "2026-10-05T08:20+00:00",
-   "topic": "Quantum computing",
-   "snippet": "Insider Brief PRESS RELEASE — Understanding why some superconducting qubits outperform others remains one of the most important challenges in quantum computing. As long as the quantum state in a qubit maintains its coherence and does not decay, information can be held and..."
-  },
-  {
-   "id": "986effedfa64",
-   "title": "Cloudflare plans public certificate authority for quantum-safe TLS certificates",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOUI1R1JuQjVQcWE1T1pfMEthWmw3V0s1ajFfUnN5X0FmRjBEazRWN2w3WW9CaExqb3RGRWRrdjlQSWRsX3Q1SUxRcmh2dDdQX2xLbUI0bk9SNk1RQTVXN2M2aDVGS0gwMVZPYnJRQjFhMzdqc1EzTVh6aVJoNXhOSE5uc2o2TWVmWmxsN1YzaEhsQWtfbkRLVkFsRW5Pa04tU0JsM29QYmliZFVk?oc=5",
-   "source": "news.lavx.hu",
-   "published": "2026-10-05T08:18+00:00",
-   "topic": "Quantum security",
-   "snippet": ""
-  },
-  {
-   "id": "7d736d93c61b",
-   "title": "Google Cuts Free Gemini to 1 Model Days After Argon [2026]",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52c2dBNDJ1blF4QkgtVkJtVDdwYVNsV0dITnNsblZmaktoYS12U1MtcVdPYVp6YU5nbXZoTHg1dFgtQWxSbGZrU0t2OEZjVGcwTlVNMHNVbkJESndYQ3paUzV4MGlzYlRjUmtBUVNVdV9Bbm9hVGc?oc=5",
-   "source": "shattered.io",
-   "published": "2026-10-05T08:15+00:00",
-   "topic": "Machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "1f98e3917d2a",
-   "title": "Trump announces leadership of AI task force",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLW5ub3QwT3hxMVE0cEl1dDJIRlE5M3hBd3M2WUNVX21VU1NpQkJSUEtjZHRnSEtDa2ZzTFlTX2hhVW1mSnhUTzBOZjYxUTNzVGY5T21EVkNJQktaVEtFeTZXMThTUmx2blo2Z0hyaUEwbGpvcXNtbE9NMHBPWTNoWkFLaw?oc=5",
-   "source": "Egypt Independent",
-   "published": "2026-10-05T08:09+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "13c1f33624f8",
-   "title": "Contrivian Launches Government Solutions Division for Federal and Defense Networks",
-   "link": "https://thequantuminsider.com/2026/10/05/contrivian-government-solutions-federal-defense-networks/",
-   "source": "The Quantum Insider",
-   "published": "2026-10-05T08:02+00:00",
-   "topic": "Quantum computing",
-   "snippet": "Insider Brief PRESS RELEASE — Contrivian, a technology company providing intelligent mission-critical connectivity, has launched Contrivian Government Solutions, a dedicated division focused on delivering secure, mission-critical connectivity for US federal agencies and defense..."
-  },
-  {
-   "id": "cc4fbf263535",
-   "title": "People really hate AI, so why can’t they get enough?",
-   "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-   "source": "Artificial intelligence – MIT Technology Review",
-   "published": "2026-10-05T08:00+00:00",
-   "topic": "AI",
-   "snippet": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a..."
-  },
-  {
-   "id": "8d583ca9ff62",
-   "title": "Cal State goes all in on AI, but some job-seeking students remain skeptical",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rdXBZNW1XR1RCUDZaTGFMQjI5NDc5WWZMMjhZRHhaTWEwZWpHcWxReXNKQU1TeGxPX2RucmtzUFllR0ZBcmNraE5FTEhOLWM4RUNEaU9id05sV2lCLVhVcHNKeDhtTWZTLWdyam9nUFlxdzRjOWlF0gF3QVVfeXFMT2t1cFk1bVdHVEJQNlpMYUxCMjk0NzlZZkwyOFlEeFpNYTBlakdxbFF5c0pBTVN4bE9fZG5ya3NQWWVHRkFyY2toTkVMSE4tYzhFQ0RpT2J3TmxXaUItWFVwc0p4OG1NZlMtZ3Jqb2dQWXF3NGM5aUU?oc=5",
-   "source": "EdSource",
-   "published": "2026-10-05T07:49+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "d8c2f7b1a322",
-   "title": "DigiCert Turns PQC Plans Into Action",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uN2p6VlVPeHN1MEx0T2tzTmdjalhRMHhBdTNpXzNPaWdpS2RGeWVSNWFRUWU2bVllblJaemlXYlp5Z1Vjd3pZczkteW9XWHFtbWNFZjRPR0ltS1FJWW56NE9OYjh2UVpJQTNoZXE3b21lSjFQ?oc=5",
-   "source": "varindia",
-   "published": "2026-10-05T07:36+00:00",
-   "topic": "Quantum security",
-   "snippet": ""
-  },
-  {
-   "id": "645feca36550",
-   "title": "QNu Labs, BISAG-N and IIT Gandhinagar Demonstrate 5 km-Scale Free-Space QKD Link",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ0hydFlXbXlqZlNQa2k0N20wa0g0YmR5STVZZ2ZZeGhvZ18tWVpjY2NvdV9PVl9NUC1EakYwWHdjSmtQRi1nZFBwUk9TdzdkY05OajdxY0RSMnk4cWxSUnpMQ1JKSTQ2Q2xrbTdIQS1jQUg5dVFkUm51ZU9OM2s2UDlWWGNDLXFaWVdsckFEckhlLTA5djJPeGRka09nekdJTnhNbG9CRm1MTm5fWW5mMk91b1FSczhCSG9WdEF3?oc=5",
-   "source": "The Quantum Insider",
-   "published": "2026-10-05T07:33+00:00",
-   "topic": "Quantum security",
-   "snippet": ""
-  },
-  {
-   "id": "b5672419a8d7",
-   "title": "Qtrex Quantum jumps 40% - Globes",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyYW5rS2VOVkNzTmR5Y2FtbndlOGU5VUNocl82MTRiSG1nSW0wYVc0UkVRTEIwcjBuc19BOUQ4WDFhd0ZZUVhOaEM2NHlubEh3UFBxWGFVOFRkV0h5TDRpMTdJUUVJSmN2TE9aejV1OEV5ZE85TWtJ?oc=5",
-   "source": "Globes - Israel Business News",
-   "published": "2026-10-05T07:30+00:00",
-   "topic": "Quantum computing",
-   "snippet": ""
-  },
-  {
-   "id": "5da01b0c1986",
-   "title": "Quantum Learning Gets a Statistical Makeover: Why Faster Circuits Don’t Guarantee Smarter Machines",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMDkwWU5XVEhaYWdTQjB2a1pnOFoxelZtMTRFQ3dDWGFxVFREOGlyVmtwdHlwQjVVb2ZmQmxLbU1vSGZ0M0luS3BLVXhFY2VfbVduV01HR2g0aEU1WWZ0eDZMeHFPOWVtc1FnYXhic1BhZ0ltTzdZY0Z0MDEwSTdmektJZGdsOFFtUldnYnJhSldiQW9JNHB0S01OUm1TSzhvd3lEd0ZvczhNSVUwSkZydmRoMlhESV9IRXF2X2h3?oc=5",
-   "source": "Bioengineer.org",
-   "published": "2026-10-05T07:16+00:00",
-   "topic": "Quantum machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "83ca1daac11d",
-   "title": "Earth Mover’s Distance Steers Smarter Knowledge Sharing in Federated Learning",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFV6NHhCQndGNjRrRFp6c3JjMWlyZ240bmxhTko5eDQwTVBpaU4tNXRaZmgyOUZlTGVaZjZfeDZOaVMtdjEzZDVrVGl0OXA5aVVYUTdnZDV1SWlYZlVxT0JrWUZza1Y1a1A5c1RGNEc1djA1NzgzWmVuSmdlSFE1WmxvQjdHal9mS1hLeG1BTHdfZkxDWWFZbi1mZk5pWlNMeFRN?oc=5",
-   "source": "Bioengineer.org",
-   "published": "2026-10-05T07:16+00:00",
-   "topic": "Machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "e1e136569f3a",
-   "title": "Malaysia plans first AI law in 2027 as scrutiny intensifies",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbmtUUk9kSmhxQVVDRFctNFh0YVRyRlZad3JHVUJXczFBXzZtOGoxSF84cjdrQlI5alY5Q3VMTUVKenBQeTZxQlEtY1E5V0JKQnc5ZllILXc4WHFEUzZKZ0x3aFRQRUhyTUE3MUcwV05IUWRodjJOQVpETTJhQy0xYlIwMWZMYUFSQjJkaUpHRXpLR3pOOFNYN0NZeUdlWlB4VHFXSTRmRXNpTE1vZjJ1ajBmUEozMjh5VnpFbzUzd1F2OHdOTjM2VnBQNjJESXJWUnlKbVlsSzNNYnE5LW5N0gHfAUFVX3lxTFBua1RST2RKaHFBVUNEVy00WHRhVHJGVlp3ckdVQldzMUFfNm04ajFIXzhyN2tCUjlqVjlDdUxNRUp6cFB5NnFCUS1jUTlXQkpCdzlmWUgtdzhYcURTNkpnTHdoVFBFSHJNQTcxRzBXTkhRZGh2Mk5BWkRNMmFDLTFiUjAxZkxhQVJCMmRpSkdFektHek44U1g3Q1l5R2VaUHhUcVdJNGZFc2lMTW9mMnVqMGZQSjMyOHlWekVvNTN3UXY4d05OMzZWcFA2MkRJclZSeUptWWxLM01icTktbk0?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-10-05T07:07+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "4f7b5b119765",
-   "title": "Video: India’s Quantum Computing Push Faces a Critical Skills Gap",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjdLZUxvbDFUNllya3pYZUtUVFZpVjdPVEY2X0dVNkNVUDhZVjI3ZHNaQ2tEeTcyTy1VVkxhd2FhTkdPYmZsaHhzUHhWNm5zQ2V6UEVISEVZSl93SU5LQjV4YmxUUlNtdldsOGptRmRqUVBvdVhLTDMtWVpHdUNKR2R2dXBSOTI2QmwtV1h5bGU5V1VBZmdvNGRTY3BKS0lzYnp2cXN3?oc=5",
-   "source": "Kashmir Observer",
-   "published": "2026-10-05T07:03+00:00",
-   "topic": "Quantum computing",
-   "snippet": ""
-  },
-  {
-   "id": "54d5aa731327",
-   "title": "Three-Dimensional Light Fields Could Help to Control Electrons",
-   "link": "https://thequantuminsider.com/2026/10/05/three-dimensional-light-fields-could-help-to-control-electrons/",
-   "source": "The Quantum Insider",
-   "published": "2026-10-05T07:01+00:00",
-   "topic": "Quantum computing",
-   "snippet": "Insider Brief PRESS RELEASE — By superimposing two ultrashort laser pulses that converge from different directions, a team of physicists at the University of Oldenburg in Germany has succeeded in generating three-dimensional light fields. Using the same method, they were also..."
-  },
-  {
-   "id": "53b8116fe646",
-   "title": "Quantumgate And NEC GCC Collaborate To Advance Post-Quantum Security, Sovereign Cybersecurity And Cyber Resilience Across Critical Infrastructure And Telecommunications",
-   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdnEtV0tBRXJZNldmS1Z6ZUNwZ2swak1adXVLajBQZWRKZDh4dlAwWDE1VnlPeUtvQmZoSTNOdXltQ0FLUUZCNEhzaWhGNlVNN01hV3MxN01yclBhLVJJTHdKUEwzTkZ6UjdEU1RSSU5HalV3dlk0TG1tZ1hrT1JRWTMzc2F4Z1ZYQWRyTUpWX1h4ZndTRkJneDEySV92Yy1hQlN3U29uVGc1TlVoeGpoS25razFuV3hHYWRLY1NlX3RxR1hGTGhUQzROQ2FQaHJHOUVIbnJlUUV1aDVudGM0MUk1OXU1alU4d2Vzdzlvekl0aFBTSzhLbzQySExUd0UzclFOVFhobkkzdVk1Y1kyVnd6eWlsTmtqNktOTVVkcEtEczA?oc=5",
-   "source": "Menafn",
-   "published": "2026-10-05T07:00+00:00",
-   "topic": "Quantum security",
-   "snippet": ""
-  },
-  {
-   "id": "cc9db40ed761",
-   "title": "Trump Launches ‘Super Intelligence Force’ to Drive US AI Leadership",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHFPcHBiT0YxblJON0VjWUJEVlVEUlZoWVFDSlZOZjF3NTZoYmV0QjlUOEVOdGN6TldGV0dsZTFBSjBJV1BEZjQ1YTBGZ1Z0QklFcUV0T29kR1JSTDN5QTluSHdwcFYxZTBRY2U3YXI0cy1UNW0zY3FLVFhTVFFmbXF4ODlGWWI4YWxCS0NDYV9QSHVzUFY1YjBDRDB6d3hZS3ZqM2tmWQ?oc=5",
-   "source": "Crypto News Australia",
-   "published": "2026-10-05T06:40+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "3ba4be805bed",
-   "title": "Machines Learn to Listen: Two Decades of AI-Powered Bioacoustics Reviewed",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUc0YkNxNHpJS0NsbGE3OVd0RHN1Skp6eGhmbnQ0Y1N6ZjFSN25IQTQ2RmxYWkw5SEtwdEV6S0t6SFJHUHhpNWNhWVhaalUtZExZOUM5VE5kMVBMSXBsRlBmNXRKMVJfc3JBM1E4X19ZMmFyR1dkWngxRnZVaVgxQ0FqRWpnY1lidUFJSWtMdm1ZU0tfTmVRcHF1RGQ3QQ?oc=5",
-   "source": "Bioengineer.org",
-   "published": "2026-10-05T06:09+00:00",
-   "topic": "Machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "68276e1577f5",
-   "title": "Trump announces Super Intelligence Force to coordinate US AI policy",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY3VmamYxdWZka1g2czJCSm90NG9LOGM3dHN6TUFXMEszZzh6Wl9CblFDTDRHdWZHRGxVU09QbzFGVFNzS3loTHUzamR3LUZydTFSVEJ3QkZCbHRvS0RvOUpRWkRLZ0hNdU85MnV0dGpQTjhRNTBiRVJlRmptMzR2aDRTbVFhWnFIeGNPQm5CZDdhMVNtX0dWSl9lU1hTdUlDdEM40gGjAUFVX3lxTFA3YWlVOUhyOVFYMjdSTUJ0Z2VRa0prOWJSMVhqWGdGVXIzV0k1eFd4cGdCd1U0ZnBMME8zbHIzdFAzbkVHMTZ0eDBkbHE4MGFqQ200UE81UUtvcTJVSGcydXNsUHhlR1NuYXJIM1QycHdscEFhM043azd5a1NqbkdCV3JCYWh4d3luUG00ckI2SXNQek9CWGRwWDV2c3p3WGhha2M?oc=5",
-   "source": "Qazinform",
-   "published": "2026-10-05T05:26+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "a6afdeea85a2",
-   "title": "Top 3 Quantum Computing Stocks To Watch In October 2026",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZXRTUWx3bFNyZ0QxY0RzaTZ5S1ZvWTZVZDlmVWhWenZEd3ltb0w4cHRkazBQaklndjdXR1p6Y3kxN3hCUE9seEhHOWtMOE9OcWhyNzZucjlPck1mTkI3a0htNHJqaFdmUHVLMmJsSS1FWkZ3bzBjOHYtemttTGU3MzM0NHE0TWd3Vzk1NmdmNVl6bGRLVFE?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-10-05T05:14+00:00",
-   "topic": "Quantum computing",
-   "snippet": ""
-  },
-  {
-   "id": "718f0eaab08a",
-   "title": "Machine Learning Statistics 2026: The Complete Data Roundup",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tQ0cyMktNZl8yMVBDd0MtVzU0VGwwSlJPQzhkN1VOdXRGeUNfYVltbl95REdCVUgwdFktc3oxOUtwd2hOSldjV2N4cExKaVdFc1VqSjhYaERfVHFGMVE?oc=5",
-   "source": "Memeburn",
-   "published": "2026-10-05T04:51+00:00",
-   "topic": "Machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "fc7ee46cab57",
-   "title": "AI Reads Heart Scans to Predict Who Benefits Most from AF Ablation",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVTAycnZvWHRwbFAtSy1DS3A2bHBNRkFXUkt2bUFqZW43aDNwMWFkVEJDaXZaOHpyS1pxNUpoc1ZTSGZmM3NtS3d3bEtpbGRfZEl4c2lMZllMSzFLT3Q5VVg3VlBKc2pYNkpLbEVXX054WGdQTlRIaUtHUHNKLS1rbHBpa01ndGtueF9uZUkyTEVhYWZnRGc?oc=5",
-   "source": "Bioengineer.org",
-   "published": "2026-10-05T04:24+00:00",
-   "topic": "Machine learning",
-   "snippet": ""
-  },
-  {
-   "id": "c8d1f5dc3656",
-   "title": "EmTech Future 2026: When AI Meets Everything",
-   "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-   "source": "Artificial intelligence – MIT Technology Review",
-   "published": "2026-10-05T04:00+00:00",
-   "topic": "AI",
-   "snippet": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review..."
-  },
-  {
-   "id": "d7392a5505d3",
-   "title": "AI, quantum computing and the future of cyber threats",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZFNRR3d5ZG1Ga1A5OFZrVW4yRnRpczk4LU01QVV2NHJDWjN0ZGFDQndJUlNPZVhaT09QUUN0WUhBZzAzQmJJZGRoc1Y4c0NFZTFkX0xqakxkbTl5WTdrejN0cFRnN1hLdEhDUm04N3lWUllFMzZtT3E2WkVnTmFfb1pSWDZDU0g1OVptS01n?oc=5",
-   "source": "SecurityBrief Asia",
-   "published": "2026-10-05T03:39+00:00",
-   "topic": "Quantum computing",
-   "snippet": ""
-  },
-  {
-   "id": "167e64913d4c",
-   "title": "Top AI firms sign White House self-regulation accord as calls for mandatory rules grow louder",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGQ2QzSGRnU2tjeHRncV9DTlQyOXIzZUJrTE5GSVZJUmQ0MkJXY3NMa0VDTm9XN21KaXNUTF92LVFrbUVoZzVHOGZXOEhuQXRIOGw1Z29PcDhmbU0wWG9YT3J3S0JFOXFrLUdhMDlXWDdmMzk1?oc=5",
-   "source": "The Herald Insight",
-   "published": "2026-10-05T03:32+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "0dccf2da9b17",
-   "title": "SQC among 6 startups sharing $12.3 million in quantum grants",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGtFaF84eE1Cd3M1eXdxLVNxY3BLSkdMS01BQ2JweHpjREd5NjZ3a2dvMDM5eXJOVFhJZjhoWDhaZkZ2OVJGMmhpd2I0cnlSSm9MRU1kQUNwODhkX1F4clo4ZGpaRmpSVi01bzRGQW1Va05ISFIzc19DSXJkcFl1V0xqTEk0UUNHNzNoTUo3a3NWM09lcm9WSkVudkVMT2RLVVdwcmdpX0FtTXRrSXVEYmJQNA?oc=5",
-   "source": "Startup Daily",
-   "published": "2026-10-05T03:13+00:00",
-   "topic": "Quantum computing",
-   "snippet": ""
-  },
-  {
-   "id": "c2a30dfefea9",
-   "title": "Trump Unveils 'Super Intelligence Force' for AI Oversight",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYjVIY29lV2J1TVlvUkJQR1Z4T1BiZ2dOYzdLNFRUVWwzdm5lR0V4Sl93WDdaMU9mYWVELVdTaXN6dEdQNUlmaF9hM2g4YmNWcW1jTHJFaDBtR1V3MC04M2ZJS1FwNGloaVc0eXhNY3R0WnM0OUVBZFJleWdiYlZMRUtSSUdMMFpaYTkxbmtyZWdtZw?oc=5",
-   "source": "The Tech Buzz",
-   "published": "2026-10-05T03:06+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "12d6ced49841",
-   "title": "White House AI task force will prevent 'overregulation': WSJ report",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVy1hSlFFRHQyOUFrMjdpQzFFc2Y3aC1oWjE5ZFJ2VXNWZlpUYXFjaC1JcmRjeGoxQUlTc2dEdjdvVG5xd25jZjdmdU5MRE03ZW1vTngwb19sTVg3aU04U1BrQUtTNE5tc3pXTUNnSGZsNFRuMEk2bHpjY0RaYy1yQXhscDF4SUtTaFc1V09fcVNuelBhdEpuTXl1Q2tHWkkyNEVuTDZ1SGlQbHVaZWNhYmoyazM2VjZhNHEzTnA5WV9Zc2ljLVdZS0hXVDBVZ0ZOejd0Wmw2WXh4aUxLR01pZHdlX1lhd9IB5gFBVV95cUxQVy1hSlFFRHQyOUFrMjdpQzFFc2Y3aC1oWjE5ZFJ2VXNWZlpUYXFjaC1JcmRjeGoxQUlTc2dEdjdvVG5xd25jZjdmdU5MRE03ZW1vTngwb19sTVg3aU04U1BrQUtTNE5tc3pXTUNnSGZsNFRuMEk2bHpjY0RaYy1yQXhscDF4SUtTaFc1V09fcVNuelBhdEpuTXl1Q2tHWkkyNEVuTDZ1SGlQbHVaZWNhYmoyazM2VjZhNHEzTnA5WV9Zc2ljLVdZS0hXVDBVZ0ZOejd0Wmw2WXh4aUxLR01pZHdlX1lhdw?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-10-05T02:52+00:00",
-   "topic": "AI",
-   "snippet": ""
   }
  ],
  "research": [
+  {
+   "id": "5f58264eadd6",
+   "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+   "link": "https://arxiv.org/abs/2610.10538v1",
+   "source": "arXiv preprint, Shravan Chaudhari, William Paul, Suchi Saria et al.",
+   "published": "2026-10-07T17:59+00:00",
+   "topic": "AI",
+   "snippet": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from..."
+  },
+  {
+   "id": "65904a6116ad",
+   "title": "Decoupling Exploration from Optimization in RLVR",
+   "link": "https://arxiv.org/abs/2610.10536v1",
+   "source": "arXiv preprint, Saif Punjwani, Micah Goldblum",
+   "published": "2026-10-07T17:59+00:00",
+   "topic": "AI",
+   "snippet": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, augmenting RLVR with..."
+  },
+  {
+   "id": "88e0df35d207",
+   "title": "Efficient Estimation of Logical Sensitivities Through Fault-Counting",
+   "link": "https://arxiv.org/abs/2610.10531v1",
+   "source": "arXiv preprint, Winston Fu, J. Wilson Staples, Jeff D. Thompson",
+   "published": "2026-10-07T17:58+00:00",
+   "topic": "Quantum computing",
+   "snippet": "Quantum error-correcting circuits are affected by multiple physical noise mechanisms, whose contributions to logical failure must be understood to evaluate code performance and guide improvements in hardware. The individual error budget contributions for an error type $i$ can be characterized by its logical..."
+  },
+  {
+   "id": "e743d4510f8f",
+   "title": "Long-WAM: Scaling the Context of World-Action Models",
+   "link": "https://arxiv.org/abs/2610.10528v1",
+   "source": "arXiv preprint, Wei Huang, Bohan Zhang, Chenzhi Liu et al.",
+   "published": "2026-10-07T17:58+00:00",
+   "topic": "AI",
+   "snippet": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our central finding is that access to history..."
+  },
+  {
+   "id": "bb5fb0bb035d",
+   "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+   "link": "https://arxiv.org/abs/2610.10527v1",
+   "source": "arXiv preprint, Aleksandar Armacki, Haoyuan Cai, Ali H. Sayed",
+   "published": "2026-10-07T17:57+00:00",
+   "topic": "Machine learning",
+   "snippet": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less is known in decentralized ones, where applying a nonlinearity to local gradients affects both..."
+  },
+  {
+   "id": "ddc90368af30",
+   "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+   "link": "https://arxiv.org/abs/2610.10526v1",
+   "source": "arXiv preprint, Mikey Watts, Yuchen Cui",
+   "published": "2026-10-07T17:57+00:00",
+   "topic": "Machine learning",
+   "snippet": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens of points: $π_{0.5}$ turns on a LIBERO stove 100% of the time for \"switch on the stove\" and 2% for..."
+  },
+  {
+   "id": "fdd75c9dc114",
+   "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
+   "link": "https://arxiv.org/abs/2610.10520v1",
+   "source": "arXiv preprint, Zhewei Chen, Hao Zhu, Jiaojiao Jiang et al.",
+   "published": "2026-10-07T17:56+00:00",
+   "topic": "Machine learning",
+   "snippet": "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based reweighting, but they do not specify where the student should preserve the teacher's graph-induced..."
+  },
+  {
+   "id": "a204ddf06ab5",
+   "title": "Why Forget-Only Unlearning Needs Memorization",
+   "link": "https://arxiv.org/abs/2610.10519v1",
+   "source": "arXiv preprint, Luka Radić, Vikrant Singhal, Amartya Sanyal",
+   "published": "2026-10-07T17:55+00:00",
+   "topic": "Machine learning",
+   "snippet": "Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletion algorithm receives only the trained model and the examples to forget, with no retained data or extra training..."
+  },
+  {
+   "id": "cd1823c30403",
+   "title": "RoboJEPA: Scaling Robotic Latent World Models",
+   "link": "https://arxiv.org/abs/2610.10515v1",
+   "source": "arXiv preprint, Artem Zholus, Nicolas Beltran-Velez, Jianhao Yuan et al.",
+   "published": "2026-10-07T17:54+00:00",
+   "topic": "AI",
+   "snippet": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, and compute, an open problem that slows progress in the field. In this work we present RoboJEPA, a..."
+  },
+  {
+   "id": "301dfa68b809",
+   "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+   "link": "https://arxiv.org/abs/2610.10513v1",
+   "source": "arXiv preprint, Yinling Zhang, Langchen Liu, Dongbin Xiu et al.",
+   "published": "2026-10-07T17:52+00:00",
+   "topic": "AI",
+   "snippet": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern Oscillation (SciExam..."
+  },
+  {
+   "id": "e1d704288673",
+   "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
+   "link": "https://arxiv.org/abs/2610.10507v1",
+   "source": "arXiv preprint, Yilun Hao, Krishna Sayana, Isabella Ye et al.",
+   "published": "2026-10-07T17:51+00:00",
+   "topic": "AI",
+   "snippet": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic variants adapt queries and tool use but remain largely retrieval-centric. However, in many tasks, the..."
+  },
+  {
+   "id": "c4746fdfc52c",
+   "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
+   "link": "https://arxiv.org/abs/2610.10506v1",
+   "source": "arXiv preprint, Daniel Robert Kling Alexander, Catherine Louise Kling",
+   "published": "2026-10-07T17:51+00:00",
+   "topic": "AI",
+   "snippet": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has faced this problem for decades. It judges survey responses without knowing the true value, through a..."
+  },
+  {
+   "id": "b18984fc9f03",
+   "title": "Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning",
+   "link": "https://arxiv.org/abs/2610.10499v1",
+   "source": "arXiv preprint, Sasha Voitovych, Adam Block, Alexander Rakhlin et al.",
+   "published": "2026-10-07T17:49+00:00",
+   "topic": "Machine learning",
+   "snippet": "Online learning is an attractive framework in many domains because it permits well-defined learning even when data are dependent or chosen adversarially. This generality, however, comes at a steep price, introducing significant statistical and computational barriers. Recently, smoothed online learning has emerged as a..."
+  },
+  {
+   "id": "4a58351e775d",
+   "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
+   "link": "https://arxiv.org/abs/2610.10498v1",
+   "source": "arXiv preprint, Python Song, Zhixuan Liang, Kelsey Fu et al.",
+   "published": "2026-10-07T17:48+00:00",
+   "topic": "AI",
+   "snippet": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be costly to collect through methods such as teleoperation. Agentic harnesses can adapt..."
+  },
+  {
+   "id": "088727139056",
+   "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
+   "link": "https://arxiv.org/abs/2610.10496v1",
+   "source": "arXiv preprint, Kursat Komurcu, Linas Petkevicius",
+   "published": "2026-10-07T17:47+00:00",
+   "topic": "Machine learning",
+   "snippet": "Small tabular datasets with expert-designed spectral features are the norm in operational Earth observation, and the networks applied to them are typically hand-designed. We revisit one such published model -- a Sentinel-2 algal bloom classifier -- and ask what architecture search adds, holding the task, the features..."
+  },
+  {
+   "id": "f8461afdc2f7",
+   "title": "Best Arm Identification for Bandits with Shifting Means",
+   "link": "https://arxiv.org/abs/2610.10488v1",
+   "source": "arXiv preprint, Lukas Zierahn, Wouter M. Koolen, Shubhada Agrawal et al.",
+   "published": "2026-10-07T17:44+00:00",
+   "topic": "Machine learning",
+   "snippet": "We study the best arm identification problem in a stochastic environment with a novel form of adversarial perturbations, which we coin Shifting Means. While classically the mean rewards of the $K$ arms are stable in time, in Shifting Means only the gaps $\\boldsymbolΔ$ between mean rewards are stable, while their..."
+  },
+  {
+   "id": "ec34e641fd20",
+   "title": "Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion",
+   "link": "https://arxiv.org/abs/2610.10483v1",
+   "source": "arXiv preprint, Walid Bendada, Guillaume Salha-Galvan",
+   "published": "2026-10-07T17:38+00:00",
+   "topic": "Machine learning",
+   "snippet": "Sampling from a softmax distribution is a fundamental operation in machine learning, but its linear complexity in the number of items makes exact sampling impractical at scale. Two-level softmax (2LS) sampling is a popular alternative enabling sublinear-time sampling. Assuming items are partitioned into clusters, 2LS..."
+  },
+  {
+   "id": "d3690ad6781a",
+   "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
+   "link": "https://arxiv.org/abs/2610.10478v1",
+   "source": "arXiv preprint, Tan Yu, Alexander Bukharin, Khushi Bhardwaj et al.",
+   "published": "2026-10-07T17:37+00:00",
+   "topic": "AI",
+   "snippet": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution, but it is a poor fit for agentic coding: many base checkpoints cannot reliably produce the well-formed tool invocation..."
+  },
+  {
+   "id": "37b892392042",
+   "title": "A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents",
+   "link": "https://arxiv.org/abs/2610.10468v1",
+   "source": "arXiv preprint, Ali Asaria, Deep Gandhi, Tony Salomone",
+   "published": "2026-10-07T17:30+00:00",
+   "topic": "AI",
+   "snippet": "Deployments of research agents are moving to populations of thousands that share one pool of compute, while most current systems organize one project at a time or leave the population unorganized. We argue that such a population will acquire an organization whether or not its designers provide one, so designers should..."
+  },
+  {
+   "id": "dc21f74fae46",
+   "title": "How assigned AI use before class shapes active student engagement in class",
+   "link": "https://arxiv.org/abs/2610.10463v1",
+   "source": "arXiv preprint, Dan J. Wang, Neelam Modi Jain, Vanessa Burbano et al.",
+   "published": "2026-10-07T17:29+00:00",
+   "topic": "AI",
+   "snippet": "AI learning tools are rapidly entering classrooms, but evidence about whether they help students learn is mixed and rests mostly on test scores. Comparatively less research addresses whether the use of AI changes students' live learning behaviors in class. Here, we report the results of a preregistered field..."
+  },
+  {
+   "id": "8b3eca9c777a",
+   "title": "FoldBack: Self-Correcting Masked Generative Policy for Long-Horizon Garment Folding",
+   "link": "https://arxiv.org/abs/2610.10462v1",
+   "source": "arXiv preprint, Lipeng Zhuang, Shiyu Fan, Yingdong Ru et al.",
+   "published": "2026-10-07T17:28+00:00",
+   "topic": "AI",
+   "snippet": "We present FoldBack, a self-correcting masked generative policy for long-horizon garment folding. Existing long-trajectory policies may continue after a missed or slipped grasp even when the garment has not reached the intended configuration. We structure FoldBack's recovery mechanisms around three inference-time..."
+  },
+  {
+   "id": "bf62ac6eb40a",
+   "title": "Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts",
+   "link": "https://arxiv.org/abs/2610.10460v1",
+   "source": "arXiv preprint, Hejian Sang, Zhengze Zhou, Shayan Mohajer Hamidi et al.",
+   "published": "2026-10-07T17:27+00:00",
+   "topic": "AI",
+   "snippet": "Multi-teacher on-policy distillation (MOPD) is used in two settings. In common-domain composition, several teachers score each student rollout from one prompt domain and their signals form a single target; in routed-domain distillation, prompts from different domains are assigned to the corresponding specialist. Both..."
+  },
+  {
+   "id": "c7995b072bc4",
+   "title": "NeuralBES: A Differentiable, Control-Aware Emulator for Scalable Building Energy Modeling",
+   "link": "https://arxiv.org/abs/2610.10459v1",
+   "source": "arXiv preprint, Ting-Yu Dai, Takuya Kurihana, Wing Yee Au et al.",
+   "published": "2026-10-07T17:27+00:00",
+   "topic": "Machine learning",
+   "snippet": "Demand-side flexibility i.e. forecasting, shifting, and curtailing residential energy loads, depends on thermal models trusted across millions of heterogeneous buildings. Existing tools force a hard tradeoff: high-fidelity physics simulators such as EnergyPlus are accurate but sequential and require per-building..."
+  },
+  {
+   "id": "6460bb7574ef",
+   "title": "PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs",
+   "link": "https://arxiv.org/abs/2610.10455v1",
+   "source": "arXiv preprint, Linghao Meng, Feng He, Xuan Yang et al.",
+   "published": "2026-10-07T17:25+00:00",
+   "topic": "AI",
+   "snippet": "Hallucinated information can propagate through multi-stage LLM systems and become part of the context for subsequent reasoning. Existing studies of post-hallucination reasoning (PHR) mainly characterize changes in final outcomes and aggregate reasoning dynamics, leaving how models resolve hallucinated premises at the..."
+  },
+  {
+   "id": "f5a4e9256ed5",
+   "title": "A Good Self-Teacher Meets the Student Where They Are: Joint On-Policy Learning and Teaching",
+   "link": "https://arxiv.org/abs/2610.10447v1",
+   "source": "arXiv preprint, Randy Ardywibowo, Arnav Dalal, Jiantao Jiao",
+   "published": "2026-10-07T17:19+00:00",
+   "topic": "AI",
+   "snippet": "Reinforcement Learning (RL) from outcome rewards suffers from sparse supervision, particularly on difficult, long-horizon tasks where successful trajectories are rare and costly to generate. On-Policy Distillation (OPD) offers an attractive alternative by providing dense token-level supervision from a stronger teacher..."
+  },
+  {
+   "id": "901d70d2916f",
+   "title": "Seq-Flow: Efficient Probabilistic Forecasting with Self-Rollout Error Control",
+   "link": "https://arxiv.org/abs/2610.10440v1",
+   "source": "arXiv preprint, Yinan Huang, Shitij Govil, Bo Dai et al.",
+   "published": "2026-10-07T17:15+00:00",
+   "topic": "Machine learning",
+   "snippet": "Many scientific forecasting tasks require updating a distribution over future trajectories as new observations arrive. Conventional diffusion and flow models generate each forecast from Gaussian noise, often at the cost of many sampling steps. Warm-start methods reuse earlier predictions to reduce this cost, but their..."
+  },
+  {
+   "id": "4128f3838792",
+   "title": "Q-Learning with Scalar Adjoint Matching",
+   "link": "https://arxiv.org/abs/2610.10437v1",
+   "source": "arXiv preprint, Yonghoon Dong, Minsung Yoon, Jaehyuk Kim et al.",
+   "published": "2026-10-07T17:13+00:00",
+   "topic": "Machine learning",
+   "snippet": "Flow policies capture rich and diverse action distributions, and fine-tuning them with off-policy RL to improve beyond the demonstrations has drawn growing interest. However, fine-tuning a flow policy against a learned value function is not trivial, because the policy generates its action over many flow steps. Adjoint..."
+  },
+  {
+   "id": "010de10cdb83",
+   "title": "Binary Optimization of Measurement Groupings for Quantum Energy Estimation",
+   "link": "https://arxiv.org/abs/2610.10339v1",
+   "source": "arXiv preprint, Isaac L. Huidobro-Meezs, Rodrigo A. Vargas-Hernández",
+   "published": "2026-10-07T16:19+00:00",
+   "topic": "Quantum computing",
+   "snippet": "Repeated measurements can dominate the resources required for quantum energy estimation, making the choice of which Pauli observables to measure together a central optimization problem for variational quantum algorithms. We formulate fully commuting measurement grouping as a classical binary optimization problem based..."
+  },
+  {
+   "id": "ddca397a00eb",
+   "title": "Physics-Aligned Electronic Ground-State Learning Improves Generalization",
+   "link": "https://arxiv.org/abs/2610.10298v1",
+   "source": "arXiv preprint, Eike S. Eberhard, Xaver Kainz, Viktor Kotsev et al.",
+   "published": "2026-10-07T15:53+00:00",
+   "topic": "Quantum machine learning",
+   "snippet": "Machine-learned interatomic potentials (MLIPs) excel at in-distribution tasks, accelerating drug and material development, yet they struggle to generalize out-of-distribution. We propose to push the cost-accuracy Pareto frontier by designing observable-agnostic electronic ground-state descriptor models (GSMs) with..."
+  },
+  {
+   "id": "c3b7f9eafb5e",
+   "title": "QuSema: Detecting Silent Bugs in Quantum Libraries via Quantum-knowledge-enhanced Agents",
+   "link": "https://arxiv.org/abs/2610.10258v1",
+   "source": "arXiv preprint, Yujin Song, Kaining Zhang, Qixin Zhang et al.",
+   "published": "2026-10-07T15:33+00:00",
+   "topic": "Quantum computing",
+   "snippet": "Quantum libraries are now critical infrastructure for quantum algorithm development, yet their correctness remains difficult to test. Existing testing techniques mainly rely on failure-based or comparison-based oracles, exposing bugs only when executions fail, violate runtime checks, or disagree with another..."
+  },
+  {
+   "id": "ce7a0920c5ce",
+   "title": "Benchmarking Modular Optimization Strategies for Parameterized Quantum Circuits",
+   "link": "https://arxiv.org/abs/2610.10254v1",
+   "source": "arXiv preprint, Carla Cotea, Stefan Balauca, Andreea Arusoaie",
+   "published": "2026-10-07T15:32+00:00",
+   "topic": "Quantum machine learning",
+   "snippet": "Training parameterized quantum circuits requires balancing optimization progress with limited evaluation budgets and the statistical uncertainty of near-term quantum hardware. We present a modular benchmarking framework that separates quantum search-direction estimation from classical parameter-update rules, allowing..."
+  },
+  {
+   "id": "c27c50459fd0",
+   "title": "On the Expressive Power and Capacity of Quantum Data Reuploaders",
+   "link": "https://arxiv.org/abs/2610.09947v1",
+   "source": "arXiv preprint, Lord Sen, Shyamapada Mukherjee",
+   "published": "2026-10-07T12:27+00:00",
+   "topic": "Quantum machine learning",
+   "snippet": "Data reuploading---repeatedly encoding classical inputs at multiple layers of a parameterized quantum circuit---is a central mechanism for enhancing the expressivity of quantum neural networks (QNNs). Building on the Fourier-theoretic framework of Schuld et al.~\\cite{schuld2021fourier}, we study the frequency spectrum..."
+  },
+  {
+   "id": "adf082b72b18",
+   "title": "Quantum Optimization of the Color-of-Money Problem on IBM Quantum Hardware: A Proof-of-Concept Study",
+   "link": "https://arxiv.org/abs/2610.09798v1",
+   "source": "arXiv preprint, Rahul Rana, Suman Kumar Roy, M Girish Chandra",
+   "published": "2026-10-07T10:13+00:00",
+   "topic": "Quantum computing",
+   "snippet": "The Color-of-Money (CoM) problem is a financial optimization challenge in which enterprises must determine how to allocate and route funds across multiple accounts, currencies, and time periods while satisfying regulatory, operational, and liquidity constraints. As the number of assets, obligations, and planning..."
+  },
+  {
+   "id": "ac30cdda59f1",
+   "title": "Pareto-optimal quantum kernel selection for unsupervised anomaly detection on real malware beaconing data",
+   "link": "https://arxiv.org/abs/2610.09717v1",
+   "source": "arXiv preprint, Boaz Micah, Nadia Milazzo, Maissa Beji et al.",
+   "published": "2026-10-07T09:13+00:00",
+   "topic": "Quantum machine learning",
+   "snippet": "Quantum kernel methods are leading candidates for a practical quantum advantage in machine learning, but assessing that potential requires two quantities usually reported separately: how well a kernel performs on the task, and how far its geometry departs from the classical kernels available for the same problem. We..."
+  },
+  {
+   "id": "dc9a97d0b884",
+   "title": "Q-PhotoMarket: A Design Space Exploration Framework for Photonic Hybrid Quantum Neural Networks in Financial Market Prediction",
+   "link": "https://arxiv.org/abs/2610.09641v1",
+   "source": "arXiv preprint, Alberto Marchisio, Hanzalah Mohamed Siraj, Muhammad Kashif et al.",
+   "published": "2026-10-07T08:15+00:00",
+   "topic": "Quantum machine learning",
+   "snippet": "Photonic quantum computing has recently emerged as a promising platform for hybrid quantum machine learning due to its native realization of linear-optical circuits and the computational complexity of boson sampling. However, despite growing interest in quantum methods for finance, the influence of photonic circuit..."
+  },
+  {
+   "id": "9e0a42a8a685",
+   "title": "Quantum anomaly detection in real scarce data",
+   "link": "https://arxiv.org/abs/2610.09635v1",
+   "source": "arXiv preprint, Emanuele Casciaro, Fabio Mascherpa, Alfonso Amendola et al.",
+   "published": "2026-10-07T08:12+00:00",
+   "topic": "Quantum machine learning",
+   "snippet": "Anomaly detection on small and unbalanced datasets remains very challenging in machine learning, although this scenario is common in several domains, including healthcare, cybersecurity, finance, and energy. Data augmentation and generative AI may mitigate training-data scarcity, but they often fall short because..."
+  },
+  {
+   "id": "afb27df5f752",
+   "title": "Divide et Impera quantum neural networks for modular hybrid computing architectures",
+   "link": "https://arxiv.org/abs/2610.09623v1",
+   "source": "arXiv preprint, Emanuele Casciaro, Fabio Mascherpa, Alfonso Amendola et al.",
+   "published": "2026-10-07T08:00+00:00",
+   "topic": "Quantum machine learning",
+   "snippet": "Quantum machine learning is rapidly emerging as a promising and potentially more sustainable approach that can complement traditional, energy-hungry HPC, AI, and GPU resources-particularly for the demanding global challenges the world urgently needs to address. In recent years, the first prototypes of quantum..."
+  },
+  {
+   "id": "5791155b6934",
+   "title": "Quantum Approximation Complexity of Classical Optimization Problems",
+   "link": "https://arxiv.org/abs/2610.09584v1",
+   "source": "arXiv preprint, Stuart Hadfield",
+   "published": "2026-10-07T07:27+00:00",
+   "topic": "Quantum computing",
+   "snippet": "Classical approximation complexity asks what solution quality can be guaranteed with polynomial-time computation. The classes APX, PTAS, and FPTAS distinguish a fixed approximation ratio, approximation to any fixed accuracy, and approximation schemes whose running time is also polynomial in inverse accuracy. Their..."
+  },
+  {
+   "id": "fe9ff5a0f235",
+   "title": "Cost of Delay for Post-Quantum Migration: Putting Classical and Harvest-Now-Decrypt-Later Risk on One Ordered List",
+   "link": "https://arxiv.org/abs/2610.09029v1",
+   "source": "arXiv preprint, Animesh Shaw",
+   "published": "2026-10-06T19:29+00:00",
+   "topic": "Quantum security",
+   "snippet": "Organisations deciding which assets to migrate to post-quantum cryptography first, and how that work competes with a backlog of classical findings, lack a common unit: post-quantum scores are dimensionless and quantum-only, while classical risk is annualised loss. We express both threats as a cost of delay in currency..."
+  },
+  {
+   "id": "e88cf5688025",
+   "title": "High-Fidelity Inter-Species Rydberg Gates with Two-Photon Driving",
+   "link": "https://arxiv.org/abs/2610.08926v1",
+   "source": "arXiv preprint, Shuan Wang, Kevin Singh",
+   "published": "2026-10-06T18:00+00:00",
+   "topic": "Quantum computing",
+   "snippet": "Recently, neutral atom arrays have become known for their promising potential in quantum information processing. High-fidelity entangling operations are typically achieved by exciting atoms to high-lying Rydberg states through two-photon processes. To improve the performance of these systems at the hardware level..."
+  },
   {
    "id": "4c90ad05823f",
    "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
@@ -4592,366 +4952,6 @@
    "published": "2026-09-30T17:57+00:00",
    "topic": "Machine learning",
    "snippet": "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between input and output embeddings, a design choice originally introduced for parameter efficiency and improved language..."
-  },
-  {
-   "id": "20e1c280f199",
-   "title": "Fast Quantum Algorithms for Learning Linear Threshold Functions",
-   "link": "https://arxiv.org/abs/2609.40331v1",
-   "source": "arXiv preprint, Aleksandrs Krivcenko, Tuyen Nguyen, Ronald de Wolf",
-   "published": "2026-09-30T17:56+00:00",
-   "topic": "Quantum machine learning",
-   "snippet": "Linear threshold functions are $f_{w,θ}(x)=\\text{sign}(\\langle x,w \\rangle -θ)$, where the weight vector $w\\in\\mathbb{R}^n$ is a unit vector, $θ\\in\\mathbb R$ is a threshold, and typically $x\\in\\mathbb{R}^n$ or $x\\in\\{-1,1\\}^n$. When $θ=0$, the LTF is called homogeneous, and we write $f_w:=f_{w,0}$. Such functions are..."
-  },
-  {
-   "id": "6b18fdc0afd2",
-   "title": "Turbo Harness: Instance-Adaptive Harness Optimization",
-   "link": "https://arxiv.org/abs/2609.40330v1",
-   "source": "arXiv preprint, Tunyu Zhang, Hao Wang, Kai Xu et al.",
-   "published": "2026-09-30T17:56+00:00",
-   "topic": "AI",
-   "snippet": "Automating the search for effective harnesses is an important step toward enabling agents to recursively self-improve. Existing harness optimizations typically produce a single global harness that is applied uniformly across task instances. However, a harness that works well on average may not be optimal for every..."
-  },
-  {
-   "id": "33dc88280cda",
-   "title": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
-   "link": "https://arxiv.org/abs/2609.40325v1",
-   "source": "arXiv preprint, Ziyan Jiang, Jingbo Yang, Jiabao Ji et al.",
-   "published": "2026-09-30T17:55+00:00",
-   "topic": "AI",
-   "snippet": "As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient pipelines for identifying anomalies in these simulated environments, such as floating objects, traversable walls, or objects inconsistent with the surrounding scene. Multimodal AI systems, including..."
-  },
-  {
-   "id": "f509dc5f01bf",
-   "title": "Cogentic: Multi-Agent Orchestration for Automated Proof Discovery",
-   "link": "https://arxiv.org/abs/2609.40324v1",
-   "source": "arXiv preprint, Yang Cai, Vineet Gupta, Yanchen Jiang et al.",
-   "published": "2026-09-30T17:55+00:00",
-   "topic": "AI",
-   "snippet": "We present Cogentic, a multi-agent harness for automated proof discovery on open research problems. While frontier language models can generate strong mathematical ideas in a single shot, single-shot generation is often insufficient for open problems that require exploring multiple competing conjectures, overcoming..."
-  },
-  {
-   "id": "71335668555b",
-   "title": "MatLoom: Layered Text-to-Material Generation in a Compact Program Space",
-   "link": "https://arxiv.org/abs/2609.40322v1",
-   "source": "arXiv preprint, Anson Y. Lam, Shuqing Li, Michael R. Lyu",
-   "published": "2026-09-30T17:55+00:00",
-   "topic": "AI",
-   "snippet": "Material generation should produce not only an appearance, but also the rules that construct it. We introduce MatLoom, a compact, layer-oriented language for text-to-material generation with pretrained language models. Each program composes alpha-masked layers whose shared spatial expressions define coverage and..."
-  },
-  {
-   "id": "d31fc92061f7",
-   "title": "Exponential quantum speedup for $\\mathbb{F}_3^n$-Subset-Sum? Or, rigorous classical algorithms for Binary-Error LWE",
-   "link": "https://arxiv.org/abs/2609.40321v1",
-   "source": "arXiv preprint, Robin Kothari, Tony Metger, Ryan O'Donnell et al.",
-   "published": "2026-09-30T17:54+00:00",
-   "topic": "Quantum computing",
-   "snippet": "We study vector subset sum over $\\mathbb{F}_3^n$: given $m$ random vectors from $\\mathbb{F}_3^n$, find a nonempty subset that sums to zero; the smaller $m$, the more difficult it is to find such a subset. Chen, Liu, and Zhandry (EUROCRYPT'22) introduced an efficient quantum algorithm that solves this problem when..."
-  },
-  {
-   "id": "aa9a6ce7a9e7",
-   "title": "Quantum Sampling of Random Spanning Trees via Amortized Data Structures",
-   "link": "https://arxiv.org/abs/2609.40314v1",
-   "source": "arXiv preprint, Yassine Hamoudi, Adrian Tanasa, Shrinidhi Teganahally Sridhara",
-   "published": "2026-09-30T17:53+00:00",
-   "topic": "Quantum computing",
-   "snippet": "We present a quantum algorithm that generates a uniform superposition over the spanning trees of a graph -- also known as a q-sample -- using only a sub-linear number of queries to the graph. This goes beyond previous work that focuses on generating classical samples, including a recent quantum algorithm by Apers..."
-  },
-  {
-   "id": "a14e85953b9e",
-   "title": "Scaling Laws for Looped Mixture of Experts",
-   "link": "https://arxiv.org/abs/2609.40316v1",
-   "source": "arXiv preprint, Yanbei Chen, Anirudh Goyal, Raghuraman Krishnamoorthi",
-   "published": "2026-09-30T17:53+00:00",
-   "topic": "AI",
-   "snippet": "Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacity at fixed active compute. Yet existing scaling laws model recurrence or sparsity in isolation. In this work, we..."
-  },
-  {
-   "id": "edea9d54ba68",
-   "title": "Compression Footprints as Security Signals for Model-Poisoning Defense in Federated Learning",
-   "link": "https://arxiv.org/abs/2609.40312v1",
-   "source": "arXiv preprint, Sachi Shome, William Eiers",
-   "published": "2026-09-30T17:53+00:00",
-   "topic": "Machine learning",
-   "snippet": "Lossy compression is widely used in Federated Learning (FL) but is generally treated as an error source, while conventional poisoning defenses inspect update geometry. In this work, we instead treat the compressor's response as a security signal: the input-dependent distortion and payload behavior induced by lossy..."
-  },
-  {
-   "id": "0edfa872691a",
-   "title": "Planted Cliques and Quantum Symmetry-Adapted Measurements",
-   "link": "https://arxiv.org/abs/2609.40310v1",
-   "source": "arXiv preprint, Vojtech Havlicek, Jordan Docter, Subhash Khot",
-   "published": "2026-09-30T17:52+00:00",
-   "topic": "Quantum computing",
-   "snippet": "The planted clique problem is a promising candidate for quantum advantage with a wide computational-statistical gap and substantial evidence for classical hardness. We study two quantum encodings of classical samples, a natural binary phase state encoding and symmetry-adapted measurements, and determine if they..."
-  },
-  {
-   "id": "c8ac246d81ec",
-   "title": "Decoupling of the QAOA into independent spin-boson systems and high-depth performance on pure and mixed spin glasses",
-   "link": "https://arxiv.org/abs/2609.40309v1",
-   "source": "arXiv preprint, Sami Boulebnane, Abid Khan, Pragna Subrahmanya et al.",
-   "published": "2026-09-30T17:52+00:00",
-   "topic": "Quantum computing",
-   "snippet": "The Quantum Approximate Optimization Algorithm (QAOA) is regarded as a promising candidate for near-term quantum advantage in combinatorial optimization, yet our ability to study it at scale is limited. Exact recursive formulas have been introduced for predicting QAOA performance on large spin glasses, but the..."
-  },
-  {
-   "id": "e19701c0855a",
-   "title": "DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents",
-   "link": "https://arxiv.org/abs/2609.40306v1",
-   "source": "arXiv preprint, Haoyuan Deng, Jiebin Liu, Tengxiao Zhang et al.",
-   "published": "2026-09-30T17:52+00:00",
-   "topic": "AI",
-   "snippet": "Pretrained robot policies provide useful action priors, but long-horizon manipulation still requires coordination between semantic reasoning and physical execution. Semantic reasoning operates at a coarser timescale than physical interaction, while episode-level failures provide limited guidance on which system..."
-  },
-  {
-   "id": "e2db6067db47",
-   "title": "Looped Diffusion Transformer",
-   "link": "https://arxiv.org/abs/2609.40305v1",
-   "source": "arXiv preprint, Yong Xien Chng, Tianyi Chen, Wenwen Tong et al.",
-   "published": "2026-09-30T17:52+00:00",
-   "topic": "Machine learning",
-   "snippet": "Improving text-to-image models has traditionally relied on increasing model size or the number of denoising steps. In this work, we explore an alternative way to scale computation by repeatedly running shared Transformer blocks within each denoising step, effectively increasing computational depth while keeping the..."
-  },
-  {
-   "id": "80801e1a1a0e",
-   "title": "Solving Sparse SDPs in Sublinear Time: A Classical Algorithm Inspired by the Quantum OR Lemma",
-   "link": "https://arxiv.org/abs/2609.40302v1",
-   "source": "arXiv preprint, Fernando G. S. L. Brandão, Alexander M. Dalzell, András Gilyén et al.",
-   "published": "2026-09-30T17:51+00:00",
-   "topic": "Quantum computing",
-   "snippet": "We give the first sublinear-time classical solvers for sparse semidefinite programs in the bounded-radius regime, without low-rank assumptions or Frobenius norm dependence on the constraint matrices. For constant precision and bounded primal and dual radii, prior quantum algorithms of Brandão et al. (2019) and van..."
-  },
-  {
-   "id": "2b8979152e32",
-   "title": "Need for Coherent Access in Constructing Quantum Cryptography",
-   "link": "https://arxiv.org/abs/2609.40301v1",
-   "source": "arXiv preprint, Minki Hhan, Changhun Oh, Vaughn Sohn",
-   "published": "2026-09-30T17:51+00:00",
-   "topic": "Quantum computing",
-   "snippet": "We construct quantum oracles relative to which quantum-secure one-way functions (OWFs) exist but pseudorandom states (PRSs) with superlogarithmic output length do not. At first glance, this appears to contradict the known black-box constructions of PRS generators from quantum-secure OWFs. The distinction lies in the..."
-  },
-  {
-   "id": "17aa150aa2e0",
-   "title": "How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?",
-   "link": "https://arxiv.org/abs/2609.40303v1",
-   "source": "arXiv preprint, Kirill Brilliantov, Alejandro Hernández-Cano, Emmanuel Abbé",
-   "published": "2026-09-30T17:51+00:00",
-   "topic": "AI",
-   "snippet": "Recent autonomous machine learning engineering (MLE) agents have made significant progress on public leaderboards. Often motivated by progress stagnation over long-horizon cycles and limited Large Language Model (LLM) primitives, modern MLE agents are deployed on top of increasingly elaborate machinery: multi-agent..."
-  },
-  {
-   "id": "318c05be3f66",
-   "title": "Quantum Fine-Grained Lower Bounds for SetDisjointness via Sub-Linear Reductions from 3SUM",
-   "link": "https://arxiv.org/abs/2609.40293v1",
-   "source": "arXiv preprint, Jeremy Huang, Young Kun Ko, Chunhao Wang",
-   "published": "2026-09-30T17:50+00:00",
-   "topic": "Quantum computing",
-   "snippet": "In classical fine-grained complexity, the 3SUM Conjecture is used to prove a variety of conditional lower bounds on data structure and graph problems via an initial reduction to the SetDisjointness problem. However, there is an $\\tilde{O}(n)$-time quantum algorithm for 3SUM and a direct application of Grover's..."
-  },
-  {
-   "id": "9fe6c5c550cf",
-   "title": "How Much Is an AI Token Worth? Scaling Laws for Wild AI-Generated Web Text",
-   "link": "https://arxiv.org/abs/2609.40295v1",
-   "source": "arXiv preprint, Jenna Russell, Ben Glickenhaus, Katherine Thai et al.",
-   "published": "2026-09-30T17:50+00:00",
-   "topic": "Machine learning",
-   "snippet": "Web text makes up the majority of pretraining data and is increasingly AI-generated. After applying FineWeb quality filtering, we find that 27.5% of tokens from June 2026 web data are labeled as AI-generated by Pangram, rising to 31.1% by August. Unlike synthetic data or model-collapse setups, this *wild* AI text..."
-  },
-  {
-   "id": "0a8b55c568fe",
-   "title": "Verifiable Quantum Advantage and Computation via Quantum Circuit Obfuscation",
-   "link": "https://arxiv.org/abs/2609.40289v2",
-   "source": "arXiv preprint, Alexandru Gheorghiu, Aparna Gupte, Vojtěch Havlíček et al.",
-   "published": "2026-09-30T17:49+00:00",
-   "topic": "Quantum security",
-   "snippet": "We construct protocols for classically verifiable quantum advantage and classical verification of $\\mathsf{BQP}$ computations using \\emph{quantum indistinguishability obfuscation} (qiO). Specifically, given qiO and assuming a slightly stronger version of $\\mathsf{BQP}\\neq\\mathsf{BPP}$, we construct a two-message..."
-  },
-  {
-   "id": "e75def1a3188",
-   "title": "CAS II: Symmetric Partitions as Kolmogorov Models",
-   "link": "https://arxiv.org/abs/2609.40290v1",
-   "source": "arXiv preprint, Romie Banerjee",
-   "published": "2026-09-30T17:49+00:00",
-   "topic": "AI",
-   "snippet": "In algorithmic statistics a string x is explained by a finite set containing it, and Kolmogorov's structure function records the smallest such model at each level of complexity. Vereshchagin's strong models, those computable from the data by a total algorithm, are essentially the cells of simple partitions. We read a..."
-  },
-  {
-   "id": "d59fa4efdcbd",
-   "title": "Disentangling Computation in Multi-Task Neural Networks with the Green's Operator",
-   "link": "https://arxiv.org/abs/2609.40292v1",
-   "source": "arXiv preprint, James Hazelden",
-   "published": "2026-09-30T17:49+00:00",
-   "topic": "Machine learning",
-   "snippet": "How is computation organized and reused across tasks and time in a trained recurrent network? Most analyses emphasize the geometry of neural activity, dynamical motifs, or local perturbation growth. We instead study the network's global first-order perturbation response. The finite-horizon Green's operator maps..."
-  },
-  {
-   "id": "79b5369cb48f",
-   "title": "Linguistic Loopholes in LLM Unlearning: From a 174-Language Benchmark to Coverage-Aware Unlearning",
-   "link": "https://arxiv.org/abs/2609.40286v1",
-   "source": "arXiv preprint, Tyler Skow, Shravan Chaudhari, Rama Chellappa et al.",
-   "published": "2026-09-30T17:48+00:00",
-   "topic": "AI",
-   "snippet": "Unlearning a fact in one language does not guarantee its removal in others as changing the query or even the requested answer language can reopen seemingly forgotten knowledge -- a cross-lingual loophole. The most straightforward solution to this challenge -- unlearning in all languages -- is neither scalable nor..."
-  },
-  {
-   "id": "5f633c2863d5",
-   "title": "PivotOPD: Learning to Recover from Pivotal Mistakes in Multi-Turn Agents",
-   "link": "https://arxiv.org/abs/2609.40285v1",
-   "source": "arXiv preprint, Yinghui He, Yapei Chang, Khushi Bhardwaj et al.",
-   "published": "2026-09-30T17:48+00:00",
-   "topic": "AI",
-   "snippet": "On-policy distillation (OPD) is a promising approach for training language agents, providing dense teacher supervision on student-generated trajectories. However, in multi-turn interaction, an incorrect action changes the states the student encounters later, so errors compound across turns. In preliminary experiments..."
-  },
-  {
-   "id": "35f88fa2d43c",
-   "title": "cua-speedrun: Standardized Benchmarking of the Speed of Computer-Use Agents",
-   "link": "https://arxiv.org/abs/2609.40284v1",
-   "source": "arXiv preprint, Pranjal Aggarwal, Lawrence Keunho Jang, Sean Welleck et al.",
-   "published": "2026-09-30T17:48+00:00",
-   "topic": "AI",
-   "snippet": "Computer use agents (CUAs), which use graphical user interfaces (GUIs) to complete tasks on a computer, have recently surpassed human performance on many standard benchmarks, including difficult long-horizon tasks. Their capabilities are undoubtedly impressive, however, a key barrier to the widespread adoption and..."
-  },
-  {
-   "id": "9edbe61f1a8b",
-   "title": "PMosFM: Preconditioned Manifold Matching for One-Step Physics-Constrained Generation",
-   "link": "https://arxiv.org/abs/2609.40287v1",
-   "source": "arXiv preprint, Zhangyong Liang, Haibin Ling",
-   "published": "2026-09-30T17:48+00:00",
-   "topic": "Machine learning",
-   "snippet": "Physics-constrained generative models aim to generate physical fields that match a target distribution and satisfy prescribed constraints. However, enforcing these constraints often increases sampling costs through iterative corrections or training costs through residual optimization and trajectory unrolling. To..."
-  },
-  {
-   "id": "8b07fcc96c22",
-   "title": "Conditioning-Free Non-Uniform Quantum Fourier and Chebyshev Transforms",
-   "link": "https://arxiv.org/abs/2609.40277v1",
-   "source": "arXiv preprint, Chaowen Guan, Akshit Katiyar",
-   "published": "2026-09-30T17:46+00:00",
-   "topic": "Quantum computing",
-   "snippet": "We present an efficient quantum algorithm for the non-uniform Chebyshev transform. It is defined as the projection of a function onto Chebyshev polynomials sampled at given nodes that are uniform in $x\\in[-1,1]$, and hence non-uniform in the angle $θ=\\arccos x$, a setting that QFT-based quantum Chebyshev transforms..."
-  },
-  {
-   "id": "2c7077a578ee",
-   "title": "Exponential Quantum Advantage in Numbers-on-Forehead Communication",
-   "link": "https://arxiv.org/abs/2609.40273v1",
-   "source": "arXiv preprint, Haoyu Wang, Pei Wu, Guangxu Yang",
-   "published": "2026-09-30T17:44+00:00",
-   "topic": "Quantum computing",
-   "snippet": "We give the first exponential quantum advantage in the general interactive three-party Numbers-on-Forehead (NOF) model for a decision problem. Previous separations hold only for restricted protocols like one-way communication for a relation. We construct an explicit partial Boolean function, the Interleaved Unitary..."
-  },
-  {
-   "id": "4ef746b1af62",
-   "title": "Belief-Aware Multi-Agent Path Finding under Map Uncertainty",
-   "link": "https://arxiv.org/abs/2609.40269v1",
-   "source": "arXiv preprint, Viraj Parimi, Shao-Hung Chan, Han Zhang et al.",
-   "published": "2026-09-30T17:44+00:00",
-   "topic": "AI",
-   "snippet": "Multi-Agent Path Finding (MAPF) aims to find collision-free paths for multiple agents in a shared environment. Classical MAPF assumes that all static obstacles are known in advance, but real-world environments can change unexpectedly due to fallen objects, spills, or other local disturbances. When such changes are..."
-  },
-  {
-   "id": "6ba971230c34",
-   "title": "OpenTSLM TeeMoE: A Unified Time-Series Language Model for Forecasting, Contextual Prediction, and Reasoning",
-   "link": "https://arxiv.org/abs/2609.40265v1",
-   "source": "arXiv preprint, Tony Chen, Timo Stoffregen, Maxwell Xu et al.",
-   "published": "2026-09-30T17:43+00:00",
-   "topic": "Machine learning",
-   "snippet": "Real-world time-series applications increasingly require models that can handle time series forecasting, context-conditioned prediction, and language-based temporal reasoning. Yet current time-series foundation models remain fragmented across these capabilities: numerical specialists often provide the strongest..."
-  },
-  {
-   "id": "28ecca1e9a93",
-   "title": "Quantum Algorithms for Minimum Generating Set",
-   "link": "https://arxiv.org/abs/2609.40260v1",
-   "source": "arXiv preprint, Bireswar Das, Udit Kumar, Kavita Samant et al.",
-   "published": "2026-09-30T17:41+00:00",
-   "topic": "Quantum computing",
-   "snippet": "In this paper, we present a polynomial-time quantum algorithm for computing a minimum-sized generating set of solvable black-box groups. Next, we consider the class $Γ_d$ of black-box groups, where every non-abelian composition factor is isomorphic to a subgroup of the symmetric group $S_d$ for a fixed $d$. We design..."
-  },
-  {
-   "id": "c3707da5ad4d",
-   "title": "ComputerSD: Online Self-Distillation from Real-Time Feedback for Computer-Use Agents",
-   "link": "https://arxiv.org/abs/2609.40253v1",
-   "source": "arXiv preprint, Yong Du, Tongbo Chen, Zhengxi Lu et al.",
-   "published": "2026-09-30T17:40+00:00",
-   "topic": "AI",
-   "snippet": "Online training enables computer-use agents (CUAs) to improve through interaction with executable environments. However, existing methods primarily rely on sparse outcome rewards, which provide no supervision for intermediate actions. On-policy self-distillation (OPSD) offers token-level learning signals through..."
-  },
-  {
-   "id": "480475379ec3",
-   "title": "From Random Quantum Codes to Explicit qLDPC Codes via Local Properties",
-   "link": "https://arxiv.org/abs/2609.40252v1",
-   "source": "arXiv preprint, Fernando Granha Jeronimo, Xiaojuan Ma, Nikhil Shagrithaya",
-   "published": "2026-09-30T17:39+00:00",
-   "topic": "Quantum computing",
-   "snippet": "Constructing explicit codes matching the parameters of random codes has been a central and largely elusive question in coding theory. The quantum setting is even more challenging since it is highly desirable that the quantum code be an LDPC code. Local coordinate-wise linear (LCL) [Levi, Mosheiff, and Shagrithaya..."
-  },
-  {
-   "id": "24e5382e4d63",
-   "title": "An (almost) efficient classical algorithm for sampling from typical Gibbs states",
-   "link": "https://arxiv.org/abs/2609.40250v1",
-   "source": "arXiv preprint, Saleh Naghdi, Eric R. Anschuetz",
-   "published": "2026-09-30T17:37+00:00",
-   "topic": "Quantum computing",
-   "snippet": "Gibbs state preparation has emerged as a potential avenue for quantum advantage in the study of physical systems. Although there is known advantage for computing local properties of worst-case Gibbs states, recent results suggest a different picture for average-case local systems: at temperatures where their Gibbs..."
-  },
-  {
-   "id": "61d6538d35a8",
-   "title": "STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction",
-   "link": "https://arxiv.org/abs/2609.40245v1",
-   "source": "arXiv preprint, Nathan Tsoi, Michael J. Munje, Tejas Oberoi et al.",
-   "published": "2026-09-30T17:35+00:00",
-   "topic": "Machine learning",
-   "snippet": "Robot navigation in dynamic, human-centered environments requires socially-compliant decisions grounded in robust scene understanding. Recent Vision-Language Models (VLMs) exhibit promising capabilities such as object recognition, common-sense reasoning, and contextual understanding, capabilities that align with the..."
-  },
-  {
-   "id": "c0e747c0f6d7",
-   "title": "A Quantum Algorithm for $st$-Transport on Flat Connection Graphs",
-   "link": "https://arxiv.org/abs/2609.40231v1",
-   "source": "arXiv preprint, Stacey Jeffery, Tobias J. Osborne, Galina Pass",
-   "published": "2026-09-30T17:30+00:00",
-   "topic": "Quantum computing",
-   "snippet": "We study a generalization of undirected $st$-connectivity to graphs whose edges carry quantum operations. Let $G=(V,E)$ be an undirected graph on $n$ vertices in which each edge $\\{u,v\\}$ is labeled by a unitary $U_{uv}\\in\\mathbb{C}^{k\\times k}$, with $U_{vu}=U_{uv}^\\dagger$. We assume the labels form a \\emph{flat}..."
-  },
-  {
-   "id": "f8f42bca6d4d",
-   "title": "A physical and universal model of bosonic computations with Solovay-Kitaev theorem",
-   "link": "https://arxiv.org/abs/2609.40226v1",
-   "source": "arXiv preprint, Dorian Rudolph, Arsalan Motamedi, Dhruva Sambrani et al.",
-   "published": "2026-09-30T17:28+00:00",
-   "topic": "Quantum computing",
-   "snippet": "Bosonic quantum systems are among the leading architectures for quantum information processing, offering continuous-variable degrees of freedom with strong error-correction capabilities. However, standard bosonic quantum computation models such as the Lloyd-Braunstein [Lloyd and Braunstein, 1999] and hybrid..."
-  },
-  {
-   "id": "58f27405f2ec",
-   "title": "Improved quantum volume estimation with transducers and amortized quantum walks",
-   "link": "https://arxiv.org/abs/2609.40217v1",
-   "source": "arXiv preprint, Arjan Cornelissen, Simon Apers, Sander Gribling",
-   "published": "2026-09-30T17:26+00:00",
-   "topic": "Quantum computing",
-   "snippet": "The volume estimation problem is a classic task in computational geometry. The development of randomized algorithms for this problem spurred the development of many influential algorithmic techniques related to Markov Chain Monte Carlo and simulated annealing, and the problem connects to several important geometrical..."
-  },
-  {
-   "id": "2d432af92f38",
-   "title": "Quantum Log-Determinant Methods for Torsion-Sensitive Topological Data Analysis",
-   "link": "https://arxiv.org/abs/2609.40216v1",
-   "source": "arXiv preprint, Dimitrios Thanos, Caesnan Leditto, Adam Wesolowski et al.",
-   "published": "2026-09-30T17:25+00:00",
-   "topic": "Quantum machine learning",
-   "snippet": "Betti numbers are central to topological data analysis but fail to capture torsion in integral homology. Torsion can distinguish topological structures with identical Betti numbers, and examples from classical topological data analysis show that it can affect the topology inferred from data. Related torsion-sensitive..."
-  },
-  {
-   "id": "b8f8f1b5fb18",
-   "title": "Smite: A quasiclassical trajectory (QCT) program for bimolecular collisions and unimolecular dynamics on ab-initio, and machine-learned potential energy surfaces",
-   "link": "https://arxiv.org/abs/2609.40135v1",
-   "source": "arXiv preprint, Péter Szabó, Jenne van Veerdeghem, Jérôme Loreau et al.",
-   "published": "2026-09-30T16:49+00:00",
-   "topic": "Quantum machine learning",
-   "snippet": "We present Smite, a Python toolkit for quasiclassical trajectory (QCT) simulations of reactive and inelastic bimolecular collisions, unimolecular dynamics, and molecular collisions with finite surface models. A central feature is the explicit control of reactant preparation: harmonic normal modes admit fixed quantum..."
-  },
-  {
-   "id": "486ed69b010b",
-   "title": "Smart Machine Learning for Solving the Full Electron-Nuclear Schrödinger Equation with a Quantum-Chemically Inspired Wavefunction Ansatz",
-   "link": "https://arxiv.org/abs/2609.40112v1",
-   "source": "arXiv preprint, Yaolong Zhang, Bin Jiang, Hua Guo",
-   "published": "2026-09-30T16:40+00:00",
-   "topic": "Quantum machine learning",
-   "snippet": "Directly solving the full electron-nuclear Schrödinger equation remains one of the grand challenges in quantum mechanics. Here, we propose a quantum-chemically motivated orbital-based neural network wavefunction ansatz with explicit many-body electron-electron correlation terms, with parameters depending on the entire..."
   }
  ]
 }
