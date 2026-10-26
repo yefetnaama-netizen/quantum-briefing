@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-26T16:31+00:00",
+ "updated": "2026-10-26T23:25+00:00",
  "news": [
+  {
+   "id": "83067b315707",
+   "title": "Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform",
+   "link": "https://thequantuminsider.com/2026/10/26/intel-to-acquire-classiq-to-create-a-full-stack-quantum-computing-platform/",
+   "source": "The Quantum Insider",
+   "published": "2026-10-26T20:55+00:00",
+   "topic": "Quantum computing",
+   "snippet": "Insider Brief PRESS RELEASE — Intel Corporation today announced that it has entered into a definitive agreement to acquire Classiq, a leading provider of quantum computing software. The combination of Classiq’s synthesis platform with Intel’s spin-qubit manufacturing and..."
+  },
+  {
+   "id": "57916c9fe918",
+   "title": "Will the real Anthropic please stand up",
+   "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+   "source": "Artificial intelligence – MIT Technology Review",
+   "published": "2026-10-26T17:45+00:00",
+   "topic": "AI",
+   "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks)..."
+  },
+  {
+   "id": "50130e17683e",
+   "title": "IDEMIA Secure Transactions Collaborates With KT in Advancing Post-Quantum Security For South Korea’s Defense Communications",
+   "link": "https://thequantuminsider.com/2026/10/26/idemia-secure-transactions-collaborates-with-kt-in-advancing-post-quantum-security-for-south-koreas-defense-communications/",
+   "source": "The Quantum Insider",
+   "published": "2026-10-26T16:38+00:00",
+   "topic": "Quantum computing",
+   "snippet": "Insider Brief PRESS RELEASE — IDEMIA Secure Transactions (IST), a global leader in payment, connectivity and cybersecurity, is collaborating with KT, a major South Korean mobile network operator, on South Korea’s 2026 Post-Quantum Cryptography (PQC) Pilot Conversion Project. The..."
+  },
   {
    "id": "88e833a29d13",
    "title": "Astute Group and Axelera AI Takes AI Vision From Model to Machine at electronica 2026",
@@ -263,15 +290,6 @@
    "snippet": ""
   },
   {
-   "id": "a21f93454ee1",
-   "title": "Analyst Willy Woo warns that Bitcoin’s post-quantum upgrade",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rWXFFWTB2WDFDR3YyTWJUOVdaVUJ4eE40eDVlcG96b0M2UGZPQjcxTTBYbnktNkc5SUhNRW1MRDhuekJKS0tvOExyeGlnblBreENST0hhYjBRZFZXVmN5WHRXVGdiT2ZibkxjZlhqaHZnQQ?oc=5",
-   "source": "KuCoin",
-   "published": "2026-10-26T10:06+00:00",
-   "topic": "Quantum security",
-   "snippet": ""
-  },
-  {
    "id": "8b34d5acf659",
    "title": "Tiny magnetic vortices could help computers work more like your brain",
    "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
@@ -279,6 +297,15 @@
    "published": "2026-10-26T10:06+00:00",
    "topic": "Quantum computing",
    "snippet": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-like computers a reality, potentially enabling dramatically..."
+  },
+  {
+   "id": "a21f93454ee1",
+   "title": "Analyst Willy Woo warns that Bitcoin’s post-quantum upgrade",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rWXFFWTB2WDFDR3YyTWJUOVdaVUJ4eE40eDVlcG96b0M2UGZPQjcxTTBYbnktNkc5SUhNRW1MRDhuekJKS0tvOExyeGlnblBreENST0hhYjBRZFZXVmN5WHRXVGdiT2ZibkxjZlhqaHZnQQ?oc=5",
+   "source": "KuCoin",
+   "published": "2026-10-26T10:06+00:00",
+   "topic": "Quantum security",
+   "snippet": ""
   },
   {
    "id": "e34771025b29",
@@ -2672,33 +2699,6 @@
    "source": "Chatham House",
    "published": "2026-10-23T06:53+00:00",
    "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "bc62102e0c84",
-   "title": "Telefónica and IQM to provide the Community of Madrid with its first quantum computer to drive the development of industry use cases across the region",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZVo4Q3hHR05iNkhZMnhYN0JvWjdralJsN1hrOERMQVFOUmxrY3RBSFZtM0ZyWkdVcDBpcF81U3g4UURCZVFwVzVwR2cxc0VxMXhOZDlCMDNzRnhnbVIxNHRhNHhvU2FVYmZyRkVRMDlJZGRhUGhxN19ZNVlRNzhzcUsyU2xQbzhvQzBiaXFjZTM1WGp4TWp6RldmOGwyLUIxclFpYlBYSFBZQXEzeE41QzBsTnRzWTU3MDRRZXlaWk1ncTB3bVJXRVpsc0hUZHhsRlA4cUhwOHI1M0x0TU1oN1ZnZ1JJVDUwNmVHZDl3?oc=5",
-   "source": "Telefónica",
-   "published": "2026-10-23T06:31+00:00",
-   "topic": "Quantum computing",
-   "snippet": ""
-  },
-  {
-   "id": "91c6985b4cfa",
-   "title": "UK: Many Barclays workers lose British banking jobs as Artificial intelligence reign supreme",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU1UVkRNenBzTDU4MmVTYzZ6RWVaMllPQkxkMGlYWkdwMnlKaDNqcU5GVVZLYkhJaGZMNDlxVlhOVG85Z0xLNUdaU2JpTk5qT1ZFVDdrSWR3dFVwUkxzdnY2eEhoQVloZnpjX0UwZTR3QjFaLU9HQkNnd0t0UF90T0Izb05xNWNsS1k1Y28yWm1hZ1Z0MVdVN0plSWIwd25tZEhjQzBXRmlNRDFfVXp3YWFhYw?oc=5",
-   "source": "Blueprint Newspapers",
-   "published": "2026-10-23T06:28+00:00",
-   "topic": "AI",
-   "snippet": ""
-  },
-  {
-   "id": "3024727be113",
-   "title": "Ethereum Foundation Amplifies Draft for Post-Quantum Key Registry",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HUFRTZGVvZnY0b3dtcFdQRDhxVFB4NGIxTlpoOVROTVpaY3doRmdPQmRwSzFjUnVXY0lFeDNUR2dkVFBWc3hqTTJsbm5ic3BaOE92Z1VrWEVib2M?oc=5",
-   "source": "TOKENPOST",
-   "published": "2026-10-23T06:13+00:00",
-   "topic": "Quantum security",
    "snippet": ""
   }
  ],
